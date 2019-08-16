@@ -1,0 +1,43 @@
+{
+  "dataset": "flickr",
+  "data_root": "X_FLICKR", //Please replace this with the actual corresponding folder
+
+  "max_seq_length": 128,
+  "bert_model_name": "bert-base-uncased",
+  "do_lower_case": true,
+
+  "train_batch_size": 32,
+  "eval_batch_size":  32,
+
+  "add_spatial_features":true,
+
+  "pretraining": false,
+
+  // Optimizer stuff
+  "limit_trainset_size": -1,
+  "patience": 3,
+  "learning_rate": 2e-5,
+  "num_train_epochs":  5,
+  "warmup_proportion": 0.1,
+  "grad_norm": 1.0,
+  "gradient_accumulation_steps": 1,
+
+  "restore_bin":  null,  //Specify which model to initialize from
+
+  "num_workers": 4,
+  "val_workers": 2,
+
+  ////////Evlaution
+  "do_test":false,
+  "vcr_save_result":false,
+  "skip_training": false,
+  "epoch_to_load": null,
+
+  "model": // Used for AllenNLP registed BERT model
+  {
+    "type": "VisualBERTFixedImageEmbedding",
+    "special_visual_initialize": true,
+    "training_head_type": "flickr",
+    "visual_embedding_dim": 2054
+  }
+}

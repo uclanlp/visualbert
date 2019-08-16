@@ -1,0 +1,37 @@
+// I ran this with 8XV100. To run it with 4XV100, we need to use the accumulating gradient trick used in Huggingface BERT, which I haven't got time to implement.
+{
+  "dataset": "nlvr",
+  "data_root": "X_NLVR", //Please replace this with the actual corresponding folder
+  "image_screening_parameters": {"image_feature_cap": 144},
+
+  "max_seq_length": 128,
+  "bert_model_name": "bert-base-uncased",
+  "do_lower_case": true,
+  "train_batch_size": 64,
+  "eval_batch_size": 64,
+
+  "pretraining": true,
+
+  // Optimizer stuff
+  "patience": 3,
+  "learning_rate": 5e-5,
+  "num_train_epochs":  10,
+  "warmup_proportion": 0.1,
+  "grad_norm": 1.0,
+  "gradient_accumulation_steps": 1,
+
+  "no_next_sentence": false,
+
+  "num_workers": 4,
+  "val_workers": 2,
+
+  "restore_bin":  null, //Specify which model to initialize from
+
+  "model":
+  {
+    "type": "VisualBERTFixedImageEmbedding",
+    "special_visual_initialize": true,
+    "training_head_type": "pretraining",
+    "visual_embedding_dim": 1024
+  }
+}
