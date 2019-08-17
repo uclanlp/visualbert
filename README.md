@@ -2,9 +2,9 @@
 
 This repository contains code for the paper [VisualBERT: A Simple and Performant Baseline for Vision and Language (arxiv)](https://arxiv.org/abs/1908.03557).
 
-The repository is still under development. Please open up issues if you have any questions or would like to see a particular part updated sooner.
+The repository is still under development. Please open up issues if you have any questions or comments. 
 
-In `pytorch_pretrained_bert` is a modified version of an early clone of HuggingFace's Pytorch BERT. I modified mainly `modeling.py` and the core of VisualBERT is there. In `models/model.py` is two wrapper model on top of the model in `pytorch_pretrained_bert/modeling.py`. In `dataloaders` are code for different datasets, where AllenNLP's `Field` and `Instance` are extensively used for wrapping data.
+In `pytorch_pretrained_bert` is a modified version of an early clone of HuggingFace's Pytorch BERT. The core part of VisualBERT is implemented mainly by modifying `modeling.py`. Two wrapper models are implemented in `models/model.py`, and code for loading different datasets are in `dataloaders`, where AllenNLP's `Field` and `Instance` are extensively used for wrapping data.
 
 I borrowed and modified code from several repositeries, including but not limited to: [R2C](https://github.com/rowanz/r2c), [Pythia](https://github.com/facebookresearch/pythia), [HugginFace BERT](https://github.com/huggingface/pytorch-transformers), [BAN](https://github.com/jnhwkim/ban-vqa), [Bottom-up and Top-down Attention](https://github.com/peteanderson80/bottom-up-attention), [AllenNLP](https://github.com/allenai/allennlp). I would like to expresse my gratitdue for authors of these repositeries.
 
