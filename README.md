@@ -10,7 +10,7 @@ I borrowed and modified code from several repositeries, including but not limite
 
 # Dependencies
 
-## Basic Dependency
+## Basic
 
 Dependencies of this repository are similar to those of R2C. If you don't need to extract image features yourself or run on VCR, below are basic dependencies needed (assuming you are using a fresh conda environment):
 
@@ -31,7 +31,7 @@ pip install pycocotools
 pip install commentjson
 ```
 
-## Dependency for extracting image features
+## Extracting image features
 
 Only install if you want to run on VCR or extract image features on your own.
 
