@@ -345,18 +345,10 @@ class COCODataset(Dataset):
 
         if args.image_feature_type == "r2c":
             # For r2c, the masks are pre-computed from a larger detector. Thus, when pre-training on COCO, we follow the same procedure.
-            masks = {}
-            for i in range(5):
-                mask_path = os.path.join(data_root, "mask_{}.th".format(i))
-                mask_piece = torch.load(mask_path)
-                for i in mask_piece:
-                    masks[i] = mask_piece[i]
-                del mask_piece
-            mask_path = os.path.join(data_root, "mask_val.th")
-            mask_piece = torch.load(mask_path)
-            for i in mask_piece:
-                masks[i] = mask_piece[i]
-            del mask_piece
+            masks = torch.load(os.path.join(data_root, "mask_train.th"))
+            mask_val = torch.load(os.path.join(data_root, "mask_val.th"))
+            for i in mask_val:
+                masks[i] = mask_val[i]
         else:
             masks = None
 

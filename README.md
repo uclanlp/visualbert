@@ -136,7 +136,35 @@ The corresponding config is `visualbert/configs/vqa/fine-tune.json`. [Model chec
 
 
 ## VCR
-Coming soon!
+### Prepare Data
+
+Download vcr images and annotations.
+```
+cd X_VCR
+wget https://s3.us-west-2.amazonaws.com/ai2-rowanz/vcr1annots.zip
+wget https://s3.us-west-2.amazonaws.com/ai2-rowanz/vcr1images.zip
+unzip vcr1annots.zip
+unzip vcr1images.zip
+```
+For COCO pre-training, first download raw COCO images:
+```
+cd X_COCO
+wget http://images.cocodataset.org/zips/train2014.zip
+wget http://images.cocodataset.org/zips/val2014.zip
+unzip train2014.zip
+unzip val2014.zip
+```
+Then download the detection results (boxes and masks) on COCO ([Train](https://drive.google.com/file/d/1lmPiz8dsM0jwJmooVcMRTLa4YGmf_qU_/view?usp=sharing), [Val](https://drive.google.com/file/d/1fVX4TaqcgowoWQTNJ8k3EYxUKRpMJSFL/view?usp=sharing)) from a large detector used when creating VCR dataset to X_COCO.
+
+### COCO Pre-training
+The corresponding config is `visualbert/configs/vcr/coco-pre-train.json`. [Model checkpoint](https://drive.google.com/file/d/1pPobkXAL9Evlp7fDjPeXnixtG0O-efoH/view?usp=sharing).
+
+### Task-specific Pre-training
+The corresponding config is `visualbert/configs/vcr/pre-train.json`. [Model checkpoint](https://drive.google.com/file/d/1iZ7QUv_jG6E6KNofO0jM5H9ee7nMEuYM/view?usp=sharing).
+
+### Fine-tuning
+The corresponding config is `visualbert/configs/vcr/fine-tune.json`. [Model checkpoint](https://drive.google.com/file/d/1z7XSUpPthhBKvgKb0wOcBe2eUNGDmf2o/view?usp=sharing).
+
 
 ## Flickr30K
 Coming soon!
