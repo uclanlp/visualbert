@@ -170,7 +170,16 @@ The corresponding config is `visualbert/configs/vcr/fine-tune.json`. [Model chec
 Coming soon!
 
 ## Extract image features on your own
-Coming soon!
+### Extract features using Detectron for NLVR2
+Dowload the corresponding config (XXX.yaml) and checkpoint (XXX.pkl) from [Detectron](https://github.com/facebookresearch/Detectron). The model I used is 35861858. 
+
+Download NLVR2 images to a folder X_NLVR_IMAGE (you need to request them from the authors of NLVR2). https://github.com/lil-lab/nlvr/tree/master/nlvr2
+
+Then run:
+```
+#SET = train/dev/test1
+CUDA_VISIBLE_DEVICES=0 python extract_features_modified.py --cfg XXX.yaml --wts XXX.pkl --min_bboxes 150 --max_bboxes 150 --feat_name gpu_0/fc6 --output_dir X_NLVR --image-ext png X_NLVR_IMAGE/SET --no_id --one_giant_file X_NLVR/features_SET_150.th
+```
 
 ## Evaluation
 Coming soon!
