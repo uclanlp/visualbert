@@ -22,7 +22,7 @@ conda install numpy pyyaml setuptools cmake cffi tqdm pyyaml scipy ipython mkl m
 conda install pytorch torchvision cudatoolkit=XXX -c pytorch
 
 
-# Below is the way to install allennlp recommanded in R2C. But in my experience, directly installing allennlp seems also okay.
+# Below is the way to install allennlp recommended in R2C. But in my experience, directly installing allennlp seems also okay.
 pip install -r allennlp-requirements.txt
 pip install --no-deps allennlp==0.8.0
 python -m spacy download en_core_web_sm
