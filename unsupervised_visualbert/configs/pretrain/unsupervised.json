@@ -1,0 +1,105 @@
+{   
+    // batch size & optimizer
+    "batch_size": 32, //144
+    "valid_batch_size": 32,
+    "optim": "bert",
+    "lr": 6e-5,
+    "epochs": 100,
+    "tqdm": true,
+    "max_seq_length": 30,
+    "report_every": 500,
+    "warmup_ratio": 0.02,
+    "num_workers": 32,
+    "val_num_workers": 2,
+    "partial_dataset": 1,
+    "prefetch_size": null,
+    "pin_memory": true,
+    "t_total": 611240, // 71864
+    "save_optimizer": true,
+
+    // model
+    "task_obj_predict": true,
+    "task_mask_lm": true,
+    "task_qa": false,
+    "visual_losses": "obj,attr,feat",
+    "word_mask_rate": 0.15,
+    "obj_mask_rate": 0.15,
+    "llayers": 12,
+    "xlayers": 0,
+    "rlayers": 0,
+    "visualbert_style": true,
+    "from_scratch": false,
+    "num_answers": "9500", // Not really used. Just to be compatible with other models
+
+
+    // Data
+    "use_h5_file": true,
+
+    // book corpus
+    "text_only_corpus_file": "data/lxmert/bc1g.doc",
+    "text_only_corpus_cache": "data/lxmert/bc1g.doc.npy",
+    "book_corpus_path": "data/lxmert/bc1g.doc",
+    "text_only_max_seq_len": 64,
+    "text_only_min_seq_len": 32,
+    "task_matched": true,
+    "disable_mismatch_for_other_dataset": true,
+    "tag_hard_max_length": 50,
+    "text_shared_memory": true,
+    "presegment_sentence": true,
+
+    "attributes_vocab": "data/vocabs/attributes_vocab.txt",
+    "objects_vocab": "data/vocabs/objects_vocab.txt",
+    "relations_vocab": "data/vocabs/relations_vocab.txt",
+
+    // Data loading
+    "inbatch_random": true,
+    "disable_random_feat": false,
+    "custom_collact_fn": true,
+    "faster_loading": true,
+    
+    "compress_memory": true,
+    "random_seed": 42,
+
+    "on_memory": false,
+
+    "train": null, // specify here if we want aligned data
+    "valid": "mscoco_minival",
+    "train_text_only": "mscoco_train", // google_cc_train+book_corpus
+    "train_image_only": "mscoco_train",
+    "add_adhoc_google_cc_image_only": false,
+    "available_split_for_cc": [0], //[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39],
+
+    "limit_source": ["visual7w", "gqa", "vqa", "vg"],
+    "limit_source_for_val": ["visual7w", "gqa", "vqa", "vg"],
+    "upsample_ratios": [1, 1, 1, 1, 1],
+    
+    // model
+    "hybrid": true,
+    "insert_cls": false,
+    "joint_layer_norm": false,
+    "hybrid_embedding": true,
+    "use_tag_mismatch": false,
+    "use_segment_embedding_for_vision_and_tag": false,
+    "disable_divide_2": true,
+
+    // tags
+    "tag_joint_mask_ratio": 0.9,
+    "non_exclusive_tags": true,
+
+    "use_visual_tag_flag": true,
+    "use_tag_symbolic_embedding": true,
+    "use_bert_input_for_tags": true,
+    "tag_max_length_surplus": 16, // how many subwords allows beyond the original length
+    "insert_cls": false,
+
+    "obj_mask_rate": 0.15,
+    "insert_attr_ratio": 0.15,
+    "allow_tag_for_eval": true,
+
+    "random_seed": 10
+
+
+
+    //
+    //CUDA_VISIBLE_DEVICES=0 python src/pretrain/lxmert_pretrain.py --multiGPU --output ./snap/test --config ./configs/pretrain/test.json
+}

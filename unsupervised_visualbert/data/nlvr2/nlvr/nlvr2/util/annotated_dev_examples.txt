@@ -1,0 +1,3659 @@
+The left image shows a staircase that ascends to the left and features a wooden handrail with black wrought iron bars accented by scroll shapes.
+* coordination
+* cc ambiguity
+* spatial relation
+* pp ambiguity
+
+Only one gerbil per picture.
+* hard cardinality
+
+There are exactly three juvenile cheetahs.
+* existential quantifier
+* hard cardinality
+
+In each image, a woman is drying her face with a towel.
+* coreference
+* universal quantifier
+
+One image contains a carcass, and the right image contains twice as many vultures as the left image.
+* coordination
+* comparison
+
+There are no more than six birds.
+* existential quantifier
+* soft cardinality
+* negation
+
+One of the pictures shows a lot more than five organisms on a beach.
+* spatial relation
+* soft cardinality
+
+The left and right image contains the same number of redbone coonhounds.
+* coordination
+* comparison
+
+An image shows a boat with unfurled sails and a blue-and-white body moving through the water.
+* coordination
+* cc ambiguity
+* presupposition
+* spatial relation
+
+There are two stingrays in the pair of images.
+* existential quantifier
+* hard cardinality
+
+One dog is wearing a leash.
+* hard cardinality
+
+In the image to the right, the truck is equipped with a red plow.
+* presupposition
+
+Both yurts have decks and one of them has an open door.
+* coordination
+* universal quantifier
+* hard cardinality
+* coreference
+
+There are no more than three elephants.
+* existential quantifier
+* soft cardinality
+* negation
+
+There are exactly six bottles in the right image.
+* existential quantifier
+* hard cardinality
+
+All the birds in these images are adults
+* universal quantifier
+* presupposition
+
+A pair of lips showing the color of the lipstick.
+* presupposition
+* hard cardinality
+
+The right image features a sparsely filled tall bookcase with square and rectangular compartments used as a divider in a room with a window on the right.
+* coordination
+* spatial relation
+* pp ambiguity
+
+One dog sled team is moving and one is not.
+* negation
+* coordination
+* hard cardinality
+
+Both pictures show an identical amout of lipstick swatches on an arm.
+* spatial relation
+* comparison
+* universal quantifier
+
+One image features a round white dish containing broccoli, seared fish and rice, with only a fork propped on one edge.
+* coordination
+* cc ambiguity
+* spatial relation
+
+the buildings in the right image have mountains to either side, sloping down and meeting somewhere behind the building.
+* coordination
+* cc ambiguity
+* spatial relation
+* presupposition
+
+In one of the photos, there is a body of water.
+* existential quantifier
+
+Each image shows exactly one human wearing a graduation gown and cap, and all graduates shown are at least adolescent in terms of age.
+* coordination
+* universal quantifier
+
+An image shows two young girls each modeling long-legged sleepwear, and at least one wears sleepwear with separate top and bottoms.
+* coordination
+* cc ambiguity
+* universal quantifier
+* soft cardinality
+* hard cardinality
+
+All cars are topless blue Mini convertibles angled front-first, and at least one car is in front of a body of water.
+* coordination
+* universal quantifier
+* soft cardinality
+* spatial relation
+
+The right image contains a brown dog with its tongue exposed.
+* coreference
+
+The right image contains a person riding a mountain bike wearing knee pads.
+* sbar ambiguity
+
+The left image shows one dog standing in profile with its body turned leftward, and the right image shows one dog running across grass with its mouth open.
+* coordination
+* pp ambiguity
+* coreference
+* hard cardinality
+* spatial relation
+
+An image shows at least two but no more than three over-lapping squarish pieces of sliced bread.
+* soft cardinality
+* spatial relation
+* negation
+
+Each image contains a single furry black dog, and all dogs have their mouths open with tongues showing.
+* coordination
+* coreference
+* universal quantifier
+
+The lamp in the image on the right is hanging over the furniture.
+* spatial relation
+* presupposition
+
+One of the images shows a gorilla with an open mouth.
+
+Left and right images show a skunk in partial profile with its tail raised, and at least one image shows a real skunk with white striped back.
+* coordination
+* coreference
+* soft cardinality
+* spatial relation
+
+There are no less than 3 black and white dogs.
+* existential quantifier
+* coordination
+* soft cardinality
+
+In at least one image there is a two color tone drum where tie base is red.
+* existential quantifier
+* soft cardinality
+
+Two camera-facing collie dogs are posed reclining side-by-side in one image.
+* hard cardinality
+* spatial relation
+
+In at least one image there is a single tree with orange flowers in front of a church with the open door facing forward left.
+* existential quantifier
+* spatial relation
+* pp ambiguity
+* presupposition
+* soft cardinality
+* hard cardinality
+
+The right image shows one canoe on the water with at least six riders heading away from the camera.
+* spatial relation
+* pp ambiguity
+* soft cardinality
+* presupposition
+
+The right image shows a chihuahua reclining on something white and soft, and the left image shows a chihuahua with a toy in front of it.
+* coordination
+* spatial relation
+
+At least one of the jellyfish is upside down in at least one of the images.
+* soft cardinality
+* presupposition
+* spatial relation
+
+The dog in the image on the right is being touched by a human.
+* presupposition
+
+Am image contains two dogs.
+* hard cardinality
+
+There are at least three jellyfish in total.
+* existential quantifier
+* soft cardinality
+
+There is one glass of red wine under a setting sun in one of the images.
+* existential quantifier
+* hard cardinality
+* spatial relation
+
+Both images show retail establishments with black-and-white checkered tile floors, and at least one has black or white checks about a foot wide instead of several feet wide.
+* coordination
+* universal quantifier
+* soft cardinality
+
+There are six different syringes in the image on the left, and less than six in the image on the right.
+* existential quantifier
+* coordination
+* spatial relation
+* hard cardinality
+* soft cardinality
+
+The left image contains exactly one dog standing on grass.
+* spatial relation
+* hard cardinality
+
+There is a set of white pearl earrings made out of a safety pin with round copper backing.
+* existential quantifier
+
+In at least one image there are 6 balloons in the foreground.
+* existential quantifier
+* soft cardinality
+* hard cardinality
+* spatial relation
+
+An image shows a marmot's tilted head with vivid yellow teeth showing.
+
+there is a bookcase leaning toward the wall with picture frames on the top shelf, there are whicker baskets and a bowl with ornamental balls in it
+* existential quantifier
+* coordination
+* spatial relation
+* pp ambiguity
+
+One image contains a single schnauzer, and the other image contains multiple look-alike schnauzers.
+* coordination
+* comparison
+* hard cardinality
+
+The combined images include a set of two knitted items, and a knitted striped item made with red, white, and blue yarn.
+* coordination
+* hard cardinality
+
+The left image shows a bride and groom standing in front of a top-down four-wheeled wagon hitched to one horse.
+* coordination
+* cc ambiguity
+* spatial relation
+* pp ambiguity
+* hard cardinality
+
+In at least one image there is a wooden bowl and a spoon on the table.
+* existential quantifier
+* coordination
+* cc ambiguity
+* spatial relation
+* pp ambiguity
+* presupposition
+* soft cardinality
+
+Does not contain a picture with an outside view of a book store.
+* negation
+
+One dingo is on dry ground, and the other dingo is in the water.
+* coordination
+* spatial relation
+
+The left and right image contains the same numbers of mugs with at least one with a pink printed mug on it.
+* coordination
+* comparison
+* pp ambiguity
+* soft cardinality
+
+All locks are round, and one image contains three identical locks.
+* coordination
+* universal quantifier
+* hard cardinality
+
+The panda in one of the images is opening its mouth to eat.
+* coreference
+* presupposition
+
+One of the images shows at least one boar standing in liquid water.
+* soft cardinality
+* spatial relation
+
+All of the beer is in bottles.
+* universal quantifier
+* presupposition
+* spatial relation
+
+In at least one image there is a pair of golf balls one behind the other.
+* existential quantifier
+* spatial relation
+* soft cardinality
+* hard cardinality
+
+The right image contains exactly two dogs.
+* hard cardinality
+
+There are three or more pizzas.
+* existential quantifier
+* soft cardinality
+* coordination
+
+There is only one cut lemon.
+* existential quantifier
+* hard cardinality
+
+All of the birds are flying through the air.
+* universal quantifier
+* presupposition
+* spatial relation
+
+One of the photos contains a cheetah that is running.
+
+Each image contains one non-standing spaniel, and one image features a spaniel with fur in shades of brown with a white chest stripe, posed sitting upright.
+* coordination
+* pp ambiguity
+* universal quantifier
+* hard cardinality
+
+There are six dogs in total.
+* existential quantifier
+* hard cardinality
+
+One image includes at least five camera-facing llama heads with upright ears in a horizontal row.
+* pp ambiguity
+* soft cardinality
+* spatial relation
+
+Two soda bottles have the Pepsi logo.
+* hard cardinality
+
+An image shows two adult chimps squatting side by side, one with a wide-opne mouth and at least one with its arms folded across its front.
+* coordination
+* cc ambiguity
+* spatial relation
+* coreference
+* hard cardinality
+* soft cardinality
+
+The dog in the image on the right is touching a food dish with its face.
+* coreference
+* presupposition
+* spatial relation
+
+One woman is wearing a night gown.
+* hard cardinality
+
+There are three dogs in the image on the left.
+* existential quantifier
+* hard cardinality
+
+There are at least five ferrets.
+* existential quantifier
+* soft cardinality
+
+There are two canopies over chair or outside.
+* existential quantifier
+* coordination
+* hard cardinality
+* spatial relation
+
+The left image shows a black rear-facing car parked on pavement with its top covered, and the right image features a light-colored car with its top at least partly down.
+* coordination
+* spatial relation
+* pp ambiguity
+* coreference
+
+The left image is of the outside of a church and the right image is of the inside of a church.
+* coordination
+
+Each image shows one big jellyfish, and only one of the jellyfish pictured has long ribbon-like tentacles trailing downward from a dome-shaped 'cap'.
+* coordination
+* universal quantifier
+* hard cardinality
+* spatial relation
+
+One dog is dyed to look like a panda.
+* hard cardinality
+
+One image features yellow dandelions and one white dog.
+* coordination
+* hard cardinality
+
+Each image shows one close-mouthed dingo reclining on a dirt ground.
+* spatial relation
+* hard cardinality
+* universal quantifier
+
+The right image contains no more than two humans.
+* soft cardinality
+* negation
+
+Reddish-pink illuminated letters are on a white background over the entrance of a store.
+* spatial relation
+* pp ambiguity
+
+In at least one image there is a two sofas on either size of a television.
+* existential quantifier
+* spatial relation
+* hard cardinality
+* soft cardinality
+
+The left and right image contains the same number of wall soap dispenser with at least one solid plastic soap holder.
+* coordination
+* spatial relation
+* comparison
+* soft cardinality
+
+One image shows a juvenile chimp in front of a larger adult chimp, and the other image contains one frontward-turned chimp and no humans.
+* coordination
+* hard cardinality
+* negation
+* spatial relation
+
+The left and right image contains four bananas.
+* coordination
+* hard cardinality
+
+There is one uncovered lipstick in the right image.
+* existential quantifier
+* hard cardinality
+
+There is no more than one tennis shoe in the right image.
+* existential quantifier
+* soft cardinality
+* negation
+
+There are two pairs of hands wearing gloves.
+* existential quantifier
+* hard cardinality
+* spatial relation
+
+Both pajamas are related to outer space.
+* universal quantifier
+
+The right image features overlapping beakers of various sizes and shapes containing liquids, and no beakers have covered tops.
+* coordination
+* cc ambiguity
+* spatial relation
+
+The rodent in the image on the left is in a basin of water.
+* spatial relation
+* presupposition
+
+There are 2, thinly feathered, brown headed birds facing right.
+* existential quantifier
+* spatial relation
+* hard cardinality
+
+In at least one image there are no more than two vultures eating the carcass.
+* existential quantifier
+* soft cardinality
+* presupposition
+* negation
+
+the animal on the right is facing right
+* presupposition
+
+The left image shows one forward-facing schnauzer reclining on the grass and wearing a ribbon around its neck.
+* coordination
+* spatial relation
+* coreference
+* presupposition
+* hard cardinality
+
+One image shows one leg, which wears a black knee brace, and the other image shows a pair of legs, but only one wears a black knee brace.
+* coordination
+* hard cardinality
+
+All dogs have tall upright ears and brindle fur coloring, and no dogs wear harnesses or leashes.
+* coordination
+* cc ambiguity
+* negation
+* universal quantifier
+
+One image shows a single standing cheetah eyeing the camera, and the other image shows multiple, interacting cheetahs.
+* coordination
+* hard cardinality
+
+A person in blue jeans is bending and reaching into a slot in a machine.
+* coordination
+* cc ambiguity
+* spatial relation
+
+There are no more than 2 groundhogs.
+* existential quantifier
+* soft cardinality
+* negation
+
+Each image contains one schnauzer, and all schnauzers are on fabric surfaces.
+* coordination
+* spatial relation
+* universal quantifier
+* hard cardinality
+
+A dog in the image on the left is sitting down.
+
+The open laptops in the left and right images are positioned back-to-back, with screens facing away from each other.
+* spatial relation
+* presupposition
+* coordination
+
+The left image contains no more than one antelope.
+* soft cardinality
+* negation
+
+A roll of paper towels is hanging on a paper towel holder.
+* spatial relation
+
+The left image features at least one row of barbell weights on a rack, and the right image features a barbell in the foreground with a view of a gym and its equipment in the background.
+* coordination
+* cc ambiguity
+* spatial relation
+* pp ambiguity
+* coreference
+* soft cardinality
+
+The left and right image contains the same number of jeep snow trucks that face opposite directions.
+* spatial relation
+* comparison
+* sbar ambiguity
+* coordination
+
+All of the chimps are on the ground.
+* spatial relation
+* universal quantifier
+* presupposition
+
+Each image contains a single model, and left and right images contain models of the opposite sex [one image contains a male and the other contains a female].
+* coordination
+* universal quantifier
+
+There is at least one large, white dog outside in the snow.
+* existential quantifier
+* soft cardinality
+* presupposition
+* spatial relation
+
+A single adult gorilla is depicted in each image, and the left image shows a gorilla with its hands crossed over its chest.
+* coordination
+* spatial relation
+* pp ambiguity
+* coreference
+* universal quantifier
+
+In at least one image there is a single piece of a flute on top of music paper.
+* existential quantifier
+* spatial relation
+* pp ambiguity
+* hard cardinality
+* soft cardinality
+
+The two birds are facing in opposite directions.
+* spatial relation
+* hard cardinality
+* presupposition
+
+All storage units pictured are footed, and one has two sliding wooden doors in the base and an open-backed hutch on top.
+* coordination
+* cc ambiguity
+* spatial relation
+* pp ambiguity
+* universal quantifier
+* hard cardinality
+
+Two pandas are touching mouths and one of them has at least one paw on the other panda's face.
+* coordination
+* spatial relation
+* soft cardinality
+* hard cardinality
+* coreference
+
+One image is from outside a town and the other image is from inside a town.
+* coordination
+
+Both images contain jewelry with red, white and blue colors.
+* coordination
+
+Acorns are with something orange.
+
+In at least one image there are at least  three squishy yellow dimpled balls.
+* existential quantifier
+* soft cardinality
+
+In both images, there are people working on a staricase.
+* existential quantifier
+* spatial relation
+* pp ambiguity
+
+Exactly two people are getting their hair cut.
+* coreference
+* hard cardinality
+
+There is snow in the truck's plow in each image
+* existential quantifier
+* presupposition
+* universal quantifier
+* spatial relation
+
+There is exactly one gorilla in the right image.
+* existential quantifier
+* hard cardinality
+
+In one of the images, a person is holding a dog's leg just above the paw.
+* spatial relation
+
+None of the phones have an antenna, and at least one of them is shown completely closed, with its keys hidden from view.
+* coordination
+* coreference
+* presupposition
+* soft cardinality
+* negation
+
+There are balloon table centerpieces.
+* existential quantifier
+
+There are at least 5 potted plants near a house in the image pair.
+* existential quantifier
+* spatial relation
+* soft cardinality
+
+In one of the images, there are a pair of shoes.
+* existential quantifier
+* hard cardinality
+
+The left image contains two parrots perched on a branch.
+* spatial relation
+* hard cardinality
+
+One image shows multiple look-alike puppies in some type of container, and the other image features one dog posed on grassy ground.
+* coordination
+* spatial relation
+* hard cardinality
+
+a cabinet has straight legs
+
+In one image there are adult elephants with at least one young elephant.
+* existential quantifier
+* soft cardinality
+
+Each image contains one old-fashioned glass soda bottle and no other glass items, and the lefthand bottle has its cap on, while the righthand one does not.
+* negation
+* spatial relation
+* coordination
+* coreference
+* hard cardinality
+* universal quantifier
+
+The lefthand image shows fingers touching a bird's greenish wing feathers.
+
+One image shows a large seal with wide-open mouth in the foreground, and the other image contains only close-mouthed seals.
+* coordination
+* pp ambiguity
+* spatial relation
+
+The left and right image contains the same number of deer.
+* comparison
+* coordination
+
+All the chimneys appear to be made of unpainted red brick.
+* universal quantifier
+* presupposition
+
+One image shows a llama chewing on a mouthful of grass.
+
+There are at least two long cylindrical vases containing white flowers in the left image.
+* existential quantifier
+* soft cardinality
+* spatial relation
+
+One image features a dog facing forward and wearing a type of coat, and the other image features one real dog and at least one non-real dog face.
+* coordination
+* soft cardinality
+* hard cardinality
+
+There are more than two dogs sitting next to each-other in one of the images.
+* existential quantifier
+* spatial relation
+* soft cardinality
+
+There are three dogs.
+* existential quantifier
+* hard cardinality
+
+A group of different colored guinea pigs are sitting on the steps.
+* spatial relation
+* presupposition
+* comparison
+
+In the image on the left there is a single light beige colored dog with a black nose.
+* existential quantifier
+* hard cardinality
+
+The left and right image contains the same number of groundhogs with at least one with yellow teeth.
+* coordination
+* pp ambiguity
+* comparison
+* soft cardinality
+
+One image shows a marmot lifting his head and gazing to one side, with his paws on a gray rock, and the other image shows an upright marmot clutching food in front of his chest with both paws.
+* coordination
+* spatial relation
+* pp ambiguity
+* coreference
+* universal quantifier
+
+At least one image shows multiple small desserts containing chocolate-brown cream layers.
+* soft cardinality
+* spatial relation
+
+At least one guinea pig enclosure has a boldly patterned floor, and one enclosure has wire mesh walls and a second story.
+* coordination
+* soft cardinality
+* hard cardinality
+
+There are exactly two brightly-colored parrots in each picture and each pair is standing close together on a branch.
+* existential quantifier
+* coordination
+* spatial relation
+* universal quantifier
+* hard cardinality
+
+All dogs are red-orange chows, and at least one of the dogs pictured is reclining with a front paw pointing rightward.
+* coordination
+* universal quantifier
+* soft cardinality
+* spatial relation
+
+There is a dome in the left image.
+* existential quantifier
+
+the left image has 4 balloons of all different colors
+* universal quantifier
+* comparison
+
+The left image contains a dog that is standing up and turned forward, and the right image features a dog wearing a blue collar with its head and gaze raised.
+* coordination
+* coreference
+* sbar ambiguity
+* pp ambiguity
+* spatial relation
+
+The sliding door in the right image is open down the middle.
+* spatial relation
+* presupposition
+
+There are drapes, but no bed or environment.
+* existential quantifier
+* coordination
+* negation
+
+Both images show exactly two lemons.
+* universal quantifier
+* hard cardinality
+
+In at least one image there is a large mason jar vase holding greenery.
+* existential quantifier
+* soft cardinality
+* spatial relation
+
+One image shows a store display with individual sneakers displayed on individual floating platforms, and the other image shows shoes in pairs on stacked shelves.
+* coordination
+* spatial relation
+* pp ambiguity
+
+IN at least one image there are three chimney on top of the house.
+* existential quantifier
+* spatial relation
+* hard cardinality
+* soft cardinality
+* presupposition
+
+There are at least two saxophones in the left image.
+* existential quantifier
+* soft cardinality
+
+Each image shows a single colorful parrot-type bird, and the bird in the left image perches on a branch that extends from the right.
+* coordination
+* spatial relation
+* universal quantifier
+* hard cardinality
+
+A bird is standing by a dog in the image on the right.
+* spatial relation
+
+One image shows balloons with dangling, curving 'strings' that are not gathered together.
+* negation
+
+A monkey is interacting with a container in the image on the right.
+
+The left and right images show similar canoe designs, and at least one image shows multiple canoes side-by-side.
+* coordination
+* comparison
+* spatial relation
+* soft cardinality
+
+The left and right image contains the same number of zebras.
+* coordination
+* comparison
+
+The image on the right features only a three story building made out of legos.
+* hard cardinality
+
+there is a single item in the right side image
+* existential quantifier
+* hard cardinality
+
+The right image contains at least two cheetahs.
+* soft cardinality
+
+The left image contains one black and brown dog with its feet touching the grass.
+* coordination
+* coreference
+* hard cardinality
+* spatial relation
+
+The animals in the image on the left are near a body of water.
+* spatial relation
+* presupposition
+
+One of the images shows a model's hand wearing a fingertip-less knit glove with a mitten attachment.
+* pp ambiguity
+* hard cardinality
+
+Both holders have meshlike holes in them.
+* universal quantifier
+* coreference
+
+A greyhound is holding a knitted toy with its front legs.
+* coreference
+
+There is a single woman in a bikini in the image on the right.
+* existential quantifier
+* hard cardinality
+
+There is at least 1 bird near water in the right image.
+* existential quantifier
+* spatial relation
+* soft cardinality
+
+One of the images shows a wooden phone stand shaped like an animal.
+* hard cardinality
+
+The left image contains a single llama, which faces forward and is showing multiple lower teeth.
+* coordination
+* hard cardinality
+
+All dobermans have pointy ears and sit upright, one doberman is facing directly left, two dogs have open mouths with tongues out, and three dogs wear chainlink collars.
+* coordination
+* universal quantifier
+* hard cardinality
+
+A marmot is peering out of a hole in the left image.
+* spatial relation
+
+An image features a baby seal looking over its shoulder toward the front, with its tail-end to the camera.
+* coreference
+* spatial relation
+
+In each image, half a lemon, the cut side showing, is in front of exactly two whole lemons and leaves.
+* coordination
+* spatial relation
+* universal quantifier
+* hard cardinality
+
+There are two birds touching beaks in both of the images.
+* existential quantifier
+* spatial relation
+* universal quantifier
+* hard cardinality
+
+The combined images include at least six puppies, and one image contains a row of at least four puppies.
+* coordination
+* soft cardinality
+* spatial relation
+
+The left image features a camera-facing group, with people standing behind two men sitting in side-by-side barber chairs.
+* spatial relation
+* hard cardinality
+* pp ambiguity
+
+The left and right image contains the same number of dogs in the grass.
+* coordination
+* comparison
+* spatial relation
+
+A total of three black kneepads are shown, and no more than one kneepad does not have a logo showing.
+* negation
+* coordination
+* soft cardinality
+* hard cardinality
+
+An image contains exactly two baboons in profile, who are face-to-face in a confrontational pose with at least one open-mouthed.
+* spatial relation
+* soft cardinality
+* hard cardinality
+
+Some of the people are wearing red graduation caps.
+* presupposition
+
+In at least one image there is one man in a long sleeve blue shirt with black hair force feeding a duck through a tube.
+* existential quantifier
+* pp ambiguity
+* hard cardinality
+* soft cardinality
+
+There are more containers of lipstick in the image on the left.
+* existential quantifier
+* comparison
+
+Each image includes purplish-pink flowers behind one camera-facing dog.
+* universal quantifier
+* hard cardinality
+* spatial relation
+
+The left image includes lemon leaves.
+
+The dog in the image on the right is outdoors.
+* presupposition
+
+There are two wine glasses in the pair of images.
+* existential quantifier
+* hard cardinality
+
+The combined images include four devices propped on stands, with at least one stand shaped like an animal.
+* spatial relation
+* soft cardinality
+* hard cardinality
+
+The left image shows a bookstore exterior with at least one person in front of it, and the right image shows a bookstore interior full of shelves of books.
+* coordination
+* soft cardinality
+* spatial relation
+
+There are exactly three marmots.
+* existential quantifier
+* hard cardinality
+
+The left train is facing right and the right train is facing left.
+* coordination
+* spatial relation
+
+The left image contains a white chihuahua.
+
+There are two beetles, both facing away from each other.
+* existential quantifier
+* hard cardinality
+* spatial relation
+
+In at least one image there is a white alpaca face pointing directly forward.
+* existential quantifier
+* soft cardinality
+* spatial relation
+
+There are snow dog sleds with riders on board them.
+* existential quantifier
+* spatial relation
+* coreference
+
+A box is next to a lipstick and its cap.
+* coordination
+* spatial relation
+* coreference
+
+there are two penguins in the image pair
+* existential quantifier
+* hard cardinality
+
+Each image shows one non-standing schnauzer in an indoor setting, and at least one of the dogs pictured looks up at the camera from a sitting pose.
+* coordination
+* universal quantifier
+* soft cardinality
+* hard cardinality
+
+One image shows multiple golf balls that aren't displayed in a vertically-stacked pyramid, and the other contains a single white ball with printing on it.
+* coordination
+* negation
+* spatial relation
+* pp ambiguity
+* sbar ambiguity
+* hard cardinality
+
+In at least one of the images in each pair there are at least three wine bottle together in a line.
+* existential quantifier
+* universal quantifier
+* soft cardinality
+* spatial relation
+
+There is a number on the label on the bottle in one of the images.
+* existential quantifier
+* pp ambiguity
+* hard cardinality
+* presupposition
+* spatial relation
+
+there are 3 dogs in the image pair
+* existential quantifier
+* hard cardinality
+
+A single seal is swimming underwater in the image on the right, while the one on the left is partially above the surface.
+* hard cardinality
+* presupposition
+* spatial relation
+
+A young zebra in the image on the right is nursing.
+
+The right image shows at least one dog in a bounding pose with all four legs off the ground.
+* universal quantifier
+* soft cardinality
+* hard cardinality
+
+The birds in the image on the left are in the water.
+* spatial relation
+* presupposition
+
+The black dog on the left is wearing a leash and collar.
+* coordination
+* presupposition
+
+In one of the images the door to the shop is open.
+* hard cardinality
+* presupposition
+
+One of the photos shows a person wearing orange and black.
+* coordination
+* hard cardinality
+
+One image shows anemone tendrils with peach coloring sprouting from black-and-white zebra striped stalks.
+* spatial relation
+
+The left image shows a group of no more than five people, including at least three women, sitting on something while looking at their phones.
+* spatial relation
+* coreference
+* soft cardinality
+* negation
+
+a chimp is eating another animal
+
+Exactly one zebra is looking straight at the camera.
+* hard cardinality
+
+The right image contains no more than two dogs.
+* soft cardinality
+* negation
+
+The right image features a rectangular box containing three rows of four golf balls.
+* hard cardinality
+* spatial relation
+
+In one of the images, one of the dumbbells is sitting upright, while another one is laying on its side next to it.
+* spatial relation
+* coreference
+* hard cardinality
+* presupposition
+
+An image shows balloons in a variety of solid, unpatterned colors with strings that descend toward a point, with no curly ribbons.
+* negation
+* pp ambiguity
+* sbar ambiguity
+* spatial relation
+
+In one image, two pugs sitting side by side, one with its tongue out, are each wearing a harness of a different color.
+* spatial relation
+* comparison
+* coreference
+* universal quantifier
+* hard cardinality
+
+The combined images contain four pillows, with at least two of them square.
+* soft cardinality
+* coreference
+
+There is at least one closed pouch and one open pouch.
+* existential quantifier
+* coordination
+* cc ambiguity
+* soft cardinality
+
+Each image in the pair shows more than five zebras.
+* universal quantifier
+* soft cardinality
+
+There is on one crab in each image.
+* existential quantifier
+* universal quantifier
+* hard cardinality
+
+One dog is facing forward, and the other looks to the side, and both dogs are tan with darker facial markings.
+* coordination
+* universal quantifier
+* hard cardinality
+* presupposition
+
+Each image contains one spaniel outdoors in the grass, and the lefthand dog stands in profile turned leftward.
+* coordination
+* spatial relation
+* universal quantifier
+* hard cardinality
+
+An image shows a basset hound next to a tube shape, and the dog has at least one front paw propped over something.
+* coordination
+* spatial relation
+* soft cardinality
+
+An image shows a pale camel-colored standing dog, with a leash extending from its neck upward.
+* coreference
+* spatial relation
+
+the left and right image contains the same number of prairie dog with their tale on the left side.
+* coordination
+* spatial relation
+* comparison
+* pp ambiguity
+* coreference
+
+One image shows a bed with a dome-shaped round-topped canopy with blue edges, and the other image shows a bed with a pinkish canopy that has pointed corners and straight edges,
+* coordination
+* pp ambiguity
+* sbar ambiguity
+
+Each image shows one baby wearing a towel with animal ears on top, and the baby in the right image is touching the hood of the towel with at least one hand.
+* coordination
+* spatial relation
+* pp ambiguity
+* universal quantifier
+* soft cardinality
+
+An image shows multiple baboons crossing a gray paved road with no buildings on either side.
+* negation
+* spatial relation
+* pp ambiguity
+* universal quantifier
+
+The dogs appear to be facing opposite directions from each other; either towards or away.
+* coordination
+* spatial relation
+* presupposition
+
+Each image contains just one dog, and one image features a dog in a reclining pose with its head upright and front paws extended.
+* coordination
+* coreference
+* universal quantifier
+* hard cardinality
+
+A stream of poured red wine is flowing into a stemmed glass in at least one image.
+* soft cardinality
+* spatial relation
+
+One image shows exactly three keys displayed on the right side of a non-round lock.
+* spatial relation
+* hard cardinality
+* negation
+
+Each image contains one black frontward-facing dog, and one of the dogs pictured has its pink tongue showing.
+* coordination
+* coreference
+* universal quantifier
+* hard cardinality
+
+One seal in the right image has its mouth open.
+* coreference
+* hard cardinality
+
+all makeup elements are not touching any other element
+* negation
+* existential quantifier
+* universal quantifier
+* spatial relation
+
+One of the knee braces has a hole in the front so the knee cap is showing.
+* hard cardinality
+* presupposition
+
+Each image shows at least five different shades of lipstick.
+* comparison
+* universal quantifier
+* soft cardinality
+
+Animal antlers are mounted on a wall in a barber shop with multiple barber chairs in the foreground.
+* spatial relation
+* pp ambiguity
+
+One image contains exactly three complete flutes displayed horizontally, and each image contains at least two items displayed horizontally.
+* coordination
+* universal quantifier
+* soft cardinality
+* hard cardinality
+* spatial relation
+
+Each image shows a purple flower below a bunch of bananas, and in one image the petals of the flower are spreading.
+* coordination
+* universal quantifier
+* spatial relation
+
+The television in the image on the left is mounted on the wall.
+* spatial relation
+* presupposition
+
+There is a paper holder that is made from horse tack items in each image.
+* existential quantifier
+* universal quantifier
+
+An image shows a side-by-side trio of same-style vending machines, each featuring red and yellow in their color schemes.
+* coordination
+* spatial relation
+* coreference
+* universal quantifier
+
+The left image features an empty wooden four-wheeled cart with bigger wheels on the right and smaller wheels on the left.
+* coordination
+* comparison
+* spatial relation
+
+more then two people are in the left side image
+* soft cardinality
+
+The left image shows a human hand being stuck in front of a dog's face
+* spatial relation
+
+The left and right image contains a total of three containers.
+* coordination
+* hard cardinality
+
+There are exactly four window shades.
+* existential quantifier
+* hard cardinality
+
+The left image shows a blue-trimmed dome canopy on a beige rug, with one plush animal next to a cushion shape under the canopy.
+* spatial relation
+* pp ambiguity
+* hard cardinality
+
+The left and right image contains a total of two women in towels with at least one in pink.
+* coordination
+* pp ambiguity
+* soft cardinality
+* hard cardinality
+
+In the right image, a gooseneck floor lamp curves over a round table.
+* spatial relation
+
+The right image contains exactly three birds.
+* hard cardinality
+
+The left image shows windows with see-through shades pulled to the same level, behind chairs around a long conference table.
+* spatial relation
+* comparison
+* pp ambiguity
+
+The right side image has two cups
+* hard cardinality
+
+There is at least one image, there are at least two lip glosses one colored orange and one colored black.
+* existential quantifier
+* coordination
+* soft cardinality
+* hard cardinality
+
+At least one bird is perched on a branch.
+* spatial relation
+* soft cardinality
+
+At least one white dog is present with sheep in one image, and the other image features multiple white puppies near a wire fence.
+* coordination
+* spatial relation
+* soft cardinality
+
+A leopard is lying on the ground.
+* spatial relation
+* presupposition
+
+The dog in the image on the left is lying on a white surface.
+* spatial relation
+* presupposition
+
+The rear badge on at least one of the cars is visible.
+* spatial relation
+* soft cardinality
+* presupposition
+
+There are four blonde women.
+* existential quantifier
+* hard cardinality
+
+One of the images has 4 women wearing white bikinis standing next to the water.
+* spatial relation
+* pp ambiguity
+* hard cardinality
+* presupposition
+
+a gazebo with a thatch roof is surrounded by a water feature
+* spatial relation
+
+A large brown dog is on the couch next to a blonde haired woman wearing pajamas.
+* spatial relation
+* pp ambiguity
+* presupposition
+
+All images show red-orange dogs with non-blue eyes, upright heads and empty mouths, and one of the dogs pictured wears a collar.
+* negation
+* coordination
+* universal quantifier
+* hard cardinality
+
+There are three wooden hanging doors.
+* existential quantifier
+* hard cardinality
+
+The left image features an older chimp with two younger pink-faced chimps, and the right image features two similar-sized apes posed sitting close together.
+* coordination
+* hard cardinality
+* comparison
+* spatial relation
+
+The left image contains no more than one sea lion.
+* soft cardinality
+* negation
+
+The image on the left depicts just 4 balloons.
+* hard cardinality
+
+Each image contains one hound puppy, no puppy is on grass, and one image shows a puppy standing on all fours.
+* negation
+* coordination
+* spatial relation
+* universal quantifier
+* hard cardinality
+
+Three people are sitting in the boat in the water in the image on the right.
+* spatial relation
+* pp ambiguity
+* hard cardinality
+* presupposition
+
+Each image shows a husky with something to eat, and the left image shows a dog with upright ears reflining to gnaw something, while the right image shows a dog near a full pet food bowl.
+* coordination
+* spatial relation
+* universal quantifier
+
+In at least one image there are two black vaulters.
+* existential quantifier
+* soft cardinality
+* hard cardinality
+
+At least 1 of the golf balls is a neon green color.
+* soft cardinality
+* presupposition
+
+At least one of the televisions is a flat screen.
+* soft cardinality
+* presupposition
+
+Each image shows a train headed leftward, and one train is green while the other features red on its front.
+* coordination
+* coreference
+* universal quantifier
+* spatial relation
+
+The canopy in both images is partially open.
+* universal quantifier
+* presupposition
+
+One image includes at least one beige jellyfish with a mushroom-like 'cap' that trails ruffly tentacles instead of long strands, and the other image features one translucent white jellyfish with long white tentacles.
+* coordination
+* sbar ambiguity
+* soft cardinality
+* hard cardinality
+
+There are more dogs in the image on the left.
+* existential quantifier
+* comparison
+
+There is exactly one horse in the right image.
+* existential quantifier
+* hard cardinality
+
+The left image shows a yellow lab wearing a collar around its neck
+* coreference
+* spatial relation
+
+At least four women are wearing graduations caps.
+* soft cardinality
+
+The left image contains no more than three ducks.
+* soft cardinality
+* negation
+
+Each sailboat sailing in the ocean has three white mainsails.
+* universal quantifier
+* hard cardinality
+* presupposition
+
+AN image contains a dogs playing with a yellow and black ball.
+* coordination
+
+There are two cheetahs jumping and fighting with each other.
+* coordination
+* hard cardinality
+
+All of the beetles are standing on top of the clods.
+* spatial relation
+* universal quantifier
+* presupposition
+
+The left and right image contains a total of two green canopies.
+* coordination
+* hard cardinality
+
+A framed painting can be seen hanging on the wall in one of the images.
+* spatial relation
+* hard cardinality
+* presupposition
+
+A single dog is outdoors in each of the images.
+* universal quantifier
+* hard cardinality
+
+The dog in one of the images is standing on the grass.
+* spatial relation
+* hard cardinality
+* presupposition
+
+The left image contains an adult gorilla interacting with a young gorilla.
+
+There are more than two dogs.
+* existential quantifier
+* soft cardinality
+
+Each image contains one german shepherd, and one dog is sitting upright with an open-mouthed expression.
+* coordination
+* universal quantifier
+* hard cardinality
+
+The left image contains a baby ferret chewing on a humans finger.
+* spatial relation
+
+In at least one image there is a single jellyfish in water with blue tentacles stretching up.
+* existential quantifier
+* sbar ambiguity
+* soft cardinality
+* hard cardinality
+* spatial relation
+
+In the image to the right, two wild pigs meet face to face.
+* spatial relation
+* hard cardinality
+
+In at least one image there is a two stared row of dumbbells.
+* existential quantifier
+* soft cardinality
+* hard cardinality
+* spatial relation
+
+There are three dogs in total.
+* existential quantifier
+* hard cardinality
+
+One doberman faces forward and wears a collar, and the other doberman has its head turned and wears no collar.
+* negation
+* coordination
+* coreference
+* presupposition
+* hard cardinality
+
+In one image, a dining table is shown with four chairs, while a dining table in the second image contains a storage unit.
+* pp ambiguity
+* hard cardinality
+
+There is only one person visible in the library
+* existential quantifier
+* hard cardinality
+* presupposition
+* spatial relation
+
+All dogs shown are puppies in sitting poses, and the left image features a puppy sitting on folds of plush fabric.
+* coordination
+* spatial relation
+* universal quantifier
+
+Each image shows a creamy mashed food mixed with chopped green bits and served in a round bowl.
+* coordination
+* universal quantifier
+* spatial relation
+
+There is exactly one dog in the right image.
+* existential quantifier
+* hard cardinality
+
+The left image shows a forward-facing woman in white holding up a syringe with one gloved hand.
+* pp ambiguity
+* hard cardinality
+
+One of the cabinets has a green wreath hanging on its front.
+* spatial relation
+* coreference
+* presupposition
+* hard cardinality
+
+One rodent is in a vase that is on its side.
+* spatial relation
+* coreference
+* sbar ambiguity
+* hard cardinality
+
+In the image to the left, we see a younger goat.
+
+Brown fuzzy penguins are in the background but not the foreground of the right image.
+* negation
+* pp ambiguity
+
+In at least one image the is one black fur masked ferret staring forward.
+* soft cardinality
+* existential quantifier
+* hard cardinality
+
+Each image includes only a single crab.
+* universal quantifier
+* hard cardinality
+
+One image shows a ladder standing at one end of a white bookcase.
+* spatial relation
+
+One image includes a doberman charging forward over snow, and the other image shows one doberman with erect ears.
+* coordination
+* spatial relation
+* hard cardinality
+
+The left image shows one or more beakers containing only water and no ice.
+* negation
+* coordination
+* soft cardinality
+* spatial relation
+
+a single pencil case is open to display color pencils, the pencils are painted in the color they are
+* coreference
+* hard cardinality
+
+In one of the images, the penguins stand at a small pool and you can see their reflections in the water.
+* spatial relation
+* coordination
+* coreference
+* hard cardinality
+
+One of the dogs is wading through water.
+* spatial relation
+* hard cardinality
+* presupposition
+
+In the right image the kick drum has a white skin.
+* presupposition
+
+An image contains a black and white dog climbing a ladder.
+* coordination
+
+One dog team is wearing booties and the other dog team is not.
+* negation
+* coordination
+* hard cardinality
+
+The left and right image contains the same number of llamas.
+* coordination
+* comparison
+
+In one image a pair of mitten thumbs are pointed the same way, but are in opposing directions in the second image.
+* comparison
+* spatial relation
+* hard cardinality
+
+The llamas in both images are eating.
+* universal quantifier
+* presupposition
+
+In one image, a barber in a black shirt is working on the hair of a person who is sitting in a chair.
+* spatial relation
+* pp ambiguity
+* sbar ambiguity
+* presupposition
+
+An image includes three zebras standing in a row and gazing forward, with a fourth zebra behind them.
+* coordination
+* spatial relation
+* hard cardinality
+* coreference
+
+There are exactly three pandas in total.
+* existential quantifier
+* hard cardinality
+
+Two buildings sit next to each other in the image on the left.
+* spatial relation
+* hard cardinality
+
+There are no humans in any images.
+* negation
+* existential quantifier
+
+Only one dog has a white chest.
+* hard cardinality
+
+There are more teacups in the image on the right.
+* existential quantifier
+* comparison
+
+There is one yellow lab puppy and one or more darker colored labrador retriever puppies
+* existential quantifier
+* coordination
+* comparison
+* hard cardinality
+* soft cardinality
+
+One house has a covered porch.
+* hard cardinality
+
+Each image includes one golden-haired spaniel, which has its tongue hanging out in one of the images.
+* coreference
+* universal quantifier
+* hard cardinality
+
+There are two or more layered desserts in each image, and at least one of them is topped with a whole cookie.
+* existential quantifier
+* coordination
+* universal quantifier
+* soft cardinality
+* coreference
+
+Three wolves stand together howling in the image on the left.
+* spatial relation
+* hard cardinality
+
+Picture has a red glove in it.
+
+The left image contains exactly two pandas.
+* hard cardinality
+
+The dog in the left image has one leg completely covered.
+* hard cardinality
+* presupposition
+
+One image shows a footed dessert with strawberries and no other fruit on top, and the other image shows a footed dessert with yellow-fleshed fruit on top.
+* negation
+* coordination
+* cc ambiguity
+* spatial relation
+
+Each image shows a single young hyena pup, and the pups on the left and right share similar type body poses.
+* coordination
+* spatial relation
+* comparison
+* universal quantifier
+* hard cardinality
+
+One of the cabinets is dark instead of white, and both cabinets pictured have flat tops.
+* coordination
+* universal quantifier
+* hard cardinality
+* presupposition
+
+One image includes exactly two tall clear glass cylinders holding one color of long-stemmed flowers.
+* hard cardinality
+* spatial relation
+
+There are more than three bottles of lotion.
+* existential quantifier
+* soft cardinality
+
+There are no more than eight bottles in total.
+* existential quantifier
+* soft cardinality
+* negation
+
+All dogs are photographed outside with their mouths open and at least one dog is actively moving.
+* coordination
+* coreference
+* universal quantifier
+* soft cardinality
+
+One image features a single zebra with its rear to the camera, and the other image contains exactly two zebra standing close together.
+* coordination
+* spatial relation
+* coreference
+* hard cardinality
+
+The right image contains one dog outside on grass.
+* spatial relation
+* hard cardinality
+
+In the image to the left, a greyhound is laying down, and has a cast on a leg.
+* coordination
+* spatial relation
+
+there is only one creature visible in the image on the left side, and it is facing the camera.
+* existential quantifier
+* coordination
+* coreference
+* hard cardinality
+
+The images feature a knobby white lid on the perfume bottle.
+* spatial relation
+* presupposition
+
+One hamster is next to a hamster of the same color that has its head poking out of an overturned brown vase.
+* spatial relation
+* comparison
+* coreference
+* hard cardinality
+
+The left and right image contains the same number of dogs.
+* coordination
+* comparison
+
+One image shows a row of at least five people standing wearing graduation robes with three stripes per sleeve, and the graduate on the far right is a woman holding something paper at her side.
+* coordination
+* spatial relation
+* sbar ambiguity
+* coreference
+* soft cardinality
+* hard cardinality
+
+Each image contains only one wolf, and all images include snowy backdrops.
+* coordination
+* universal quantifier
+* hard cardinality
+
+There are two dogs laying down.
+* existential quantifier
+* hard cardinality
+
+Two women are standing.
+* hard cardinality
+
+A person is holding the crab in the image on the left.
+* presupposition
+
+Two cows are standing on dry land in the image on the right.
+* spatial relation
+* hard cardinality
+
+There are 2 syringes total.
+* existential quantifier
+* hard cardinality
+
+There are exactly nine water bottles in total.
+* existential quantifier
+* hard cardinality
+
+One of the images in the pair shows a dog with a tennis ball.
+* hard cardinality
+
+All the lemons are free of leaves.
+* universal quantifier
+* presupposition
+
+A computer monitor rests on a shelf in at least one of the images.
+* spatial relation
+* soft cardinality
+
+The combined images include an uncapped lipstick wand to the right of a capped lipstick, and a squarish smear of reddish rouge left of them.
+* coordination
+* spatial relation
+* coreference
+
+There are two jellyfish in total.
+* existential quantifier
+* hard cardinality
+
+One of the dogs has its mouth open.
+* coreference
+* presupposition
+* hard cardinality
+
+two burds are pirched together on a tree branch
+* spatial relation
+* hard cardinality
+
+One of the dogs is sitting in the grass.
+* spatial relation
+* hard cardinality
+* presupposition
+
+The left image contains two whole lemons and one half of a lemon.
+* coordination
+* hard cardinality
+
+One image shows multiple dogs posed sitting upright, and the other image shows a single large-breed dog.
+* coordination
+* hard cardinality
+
+Exactly one of the binders has two diagonal lines across its front.
+* coreference
+* presupposition
+* hard cardinality
+
+In one of the images there is a dog holding a dead duck in its mouth.
+* existential quantifier
+* coreference
+* hard cardinality
+* spatial relation
+
+A pile of cut greenery for munching is in front of an orange-and-white guinea pig.
+* spatial relation
+
+The image to the right appears to show a single serving, rather than the full trifle.
+* hard cardinality
+
+Three ducks are floating in water and the other three are on land.
+* coordination
+* spatial relation
+* hard cardinality
+
+There are towels with stars on them.
+* existential quantifier
+* coreference
+
+There are more machines in the image on the right.
+* existential quantifier
+* comparison
+
+There are exactly two dogs in the left image.
+* existential quantifier
+* hard cardinality
+
+A person is holding a dog in one of the images.
+
+An image shows exactly two gorillas, which are face to face with a hand raised in between them.
+* coreference
+* hard cardinality
+* spatial relation
+
+Exactly three white ducks are standing in a row on dry ground.
+* spatial relation
+* hard cardinality
+
+At least one roll of toilet paper is outside of its packaging.
+* coreference
+* soft cardinality
+* spatial relation
+
+In the left image, there's a single Basset Hound walking to the left.
+* hard cardinality
+
+There are exactly two dogs in the right image.
+* existential quantifier
+* hard cardinality
+
+Only one image shows warthogs butting heads.
+* hard cardinality
+
+A pair of gloves has a snowflake design on them.
+* coreference
+* hard cardinality
+
+At least one cocker spaniel is facing left.
+* soft cardinality
+
+The train in the left image has a design with red and blue painted stripes.
+* coordination
+* presupposition
+
+There are two cup beakers with no additional pieces.
+* negation
+* existential quantifier
+* hard cardinality
+
+Three or more fingers are visible.
+* soft cardinality
+* coordination
+
+In one image there is a line of fence posts with one large darkly colored bird on top of each post.
+* existential quantifier
+* spatial relation
+* pp ambiguity
+* universal quantifier
+* hard cardinality
+
+There are 3 dogs on the beach.
+* existential quantifier
+* spatial relation
+* presupposition
+
+Each image contains exactly one flute and nothing else, displayed diagonally.
+* coordination
+* universal quantifier
+* hard cardinality
+
+The left image features one flat rectangular phone held screen-side-up in one hand, with fingers and thumb on the edges.
+* coordination
+* cc ambiguity
+* spatial relation
+* hard cardinality
+
+In at least one image there is a pair of antelopes.
+* existential quantifier
+* soft cardinality
+* hard cardinality
+
+All the chairs have backs.
+* universal quantifier
+* presupposition
+
+Each image contains one dog, which is standing on all fours in the grass, and dogs in the left and right images are turned in the same general direction.
+* coordination
+* spatial relation
+* comparison
+* universal quantifier
+* hard cardinality
+* presupposition
+
+The image on the left has a stalk with white dots on it.
+* coreference
+
+The left and right image contains a total of two dogs with at least one in a collar.
+* coordination
+* soft cardinality
+* hard cardinality
+
+The skunk in the image on the right is eating.
+* presupposition
+
+The right image contains customers standing in front of a glass display case.
+* spatial relation
+
+The left image features one orange fish with three white stripes swimming above anemone tendrils, and the right image shows an orangish fish without three stripes over anemone tendrils.
+* negation
+* coordination
+* spatial relation
+* hard cardinality
+
+Both railings have a vertical post design.
+* universal quantifier
+
+There are at least  five  zebras and five cows grazing.
+* existential quantifier
+* coordination
+* cc ambiguity
+* soft cardinality
+
+there is a hamster holding food in it's hands
+* existential quantifier
+* coreference
+* spatial relation
+
+Televisions are stacked in a single column that is four devices high.
+* hard cardinality
+* spatial relation
+
+A thin crust pizza has one slice pulled out slightly way from the rest.
+* spatial relation
+* hard cardinality
+
+At least one person is standing in front of a row of identical-looking red vending machines.
+* spatial relation
+* comparison
+* soft cardinality
+
+One pizza contains pepperoni.
+* hard cardinality
+
+A green wreath is hanging in the middle of the china cabinet.
+* spatial relation
+* presupposition
+
+Each image contains only an adult gorilla, and in one image the gorilla is sitting with an elbow on a bent knee.
+* coordination
+* pp ambiguity
+* spatial relation
+* universal quantifier
+
+A dog is on a sofa.
+* spatial relation
+
+An image shows beaded pin jewelry featuring at least one heart-shaped element.
+* soft cardinality
+
+There are no more than 2 animals featured.
+* existential quantifier
+* soft cardinality
+* negation
+
+There are two weight racks full of black weights.
+* existential quantifier
+* hard cardinality
+
+In the left image there are llamas looking at the camera.
+* existential quantifier
+
+There are at least 2 dogs next to each other.
+* existential quantifier
+* spatial relation
+* soft cardinality
+
+The combined images include at least four upright saxophones with bells angled rightward and mouthpieces attached.
+* coordination
+* soft cardinality
+
+The front paws of the dog in the image on the left are not touching the ground.
+* negation
+* spatial relation
+* presupposition
+
+One image shows a safety pin bracelet strung with blue beads and no other dominant bead color, and the other shows a bracelet that features black beads prominently.
+* negation
+* coordination
+
+There is a total of four people in a barbershops.
+* existential quantifier
+* hard cardinality
+
+The left and right image contains the same number women in bikinis.
+* coordination
+* comparison
+
+Each image shows one forward-facing stingray shown from the top, and the left image shows a leftward-angled stingray at the bottom of the ocean.
+* coordination
+* spatial relation
+* universal quantifier
+* hard cardinality
+* presupposition
+
+One dog has its tongue out.
+* coreference
+* hard cardinality
+
+A woman is holding at least one small dog in each of the images.
+* universal quantifier
+* soft cardinality
+
+An image features exactly one chihuahua puppy posed on a patterned fabric with no other animal figures present.
+* negation
+* spatial relation
+* pp ambiguity
+* hard cardinality
+
+Water goes everywhere as a gorilla splashes it out of a blue pool.
+* coreference
+
+a roll of paper towels is in a holder
+* spatial relation
+
+There is a blue/green tint to all objects in the left image.
+* existential quantifier
+* universal quantifier
+
+The left image features ornate arch shapes above gray stone columns.
+* spatial relation
+
+The right image contains no more than five ducks.
+* soft cardinality
+* negation
+
+In one image, a necklace made of beaded safety pins strung in one row on a chain is displayed on a black mannequin form.
+* spatial relation
+* pp ambiguity
+* hard cardinality
+
+An image features a drape hanging from a dark rod on at least one side of a row of white paned sliding glass doors.
+* spatial relation
+* pp ambiguity
+* soft cardinality
+
+The dog in the right image is facing right.
+* presupposition
+
+There is a female in every picture.
+* existential quantifier
+* universal quantifier
+
+There is exactly one curved staircase.
+* existential quantifier
+* hard cardinality
+
+There is an all in one fridge, stove and sink, with two burner eyes on the left.
+* existential quantifier
+* coordination
+* cc ambiguity
+* spatial relation
+* universal quantifier
+* hard cardinality
+
+A man is on his boat in the water in one of the images, and the man is near his boat on land in the other.
+* coordination
+* spatial relation
+* coreference
+* hard cardinality
+
+In 1 of the images, 1 bookstore has a staircase.
+* hard cardinality
+
+One image shows a plate with a serving of green beans next to the mashed potatoes.
+* spatial relation
+* pp ambiguity
+* presupposition
+
+There are at least eight huskies pulling the snow sled right and forward.
+* existential quantifier
+* coordination
+* soft cardinality
+* presupposition
+
+The doors in the right image are closes.
+* presupposition
+
+One image contains exactly three balloons, the other five or more.
+* soft cardinality
+* hard cardinality
+* coordination
+
+In one image, a bedroom area of a yurt is positioned on an area rug on a wood plank floor, with a storage unit at the foot of the bed, and a skylight overhead.
+* coordination
+* spatial relation
+* pp ambiguity
+
+The single dessert in the image on the right is being served in a glass container with a pedestal foot.
+* pp ambiguity
+* hard cardinality
+* presupposition
+* spatial relation
+
+One of the images contains a 6 roll package of paper towels.
+* hard cardinality
+
+At least one image shows a drum kit set-up viewed head-on, with at least one big drum turned showing a black circle with a white logo on top.
+* pp ambiguity
+* soft cardinality
+
+Each image features one bracelet made of beads strung on safety pins, and all bracelets contain some green beads.
+* coordination
+* spatial relation
+* universal quantifier
+* hard cardinality
+
+One bottle is at least partly green.
+* hard cardinality
+
+In at least one image there is open floor of dining tables and square chairs.
+* existential quantifier
+* coordination
+* soft cardinality
+
+All of the images show a parrot perched on a branch, surrounded by pink flowers.
+* spatial relation
+* universal quantifier
+
+The left image shows a trio of wolves, with at least two of them howling with raised heads.
+* coreference
+* soft cardinality
+* hard cardinality
+
+There are exactly two animals.
+* existential quantifier
+* hard cardinality
+
+In the right image, a white sofa with a rectangular item on the wall above it is angled facing right and has a wall with multiple windows next to it.
+* coordination
+* spatial relation
+* pp ambiguity
+* coreference
+* presupposition
+
+One image contains no more than 10 zebra, and the other image includes a mass of zebra too numerous to count, but no other large animals that are clearly visible.
+* negation
+* coordination
+* soft cardinality
+
+The bikini in the left image has a green bottom piece.
+* presupposition
+
+At least one dog is looking directly at the camera
+* soft cardinality
+
+At least one of the dogs has uncropped, floppy ears.
+* soft cardinality
+* presupposition
+
+In one image, two dingos of similar size are interacting, with a body part of the dingo on the left over the back of the dingo on the right.
+* spatial relation
+* comparison
+* pp ambiguity
+* hard cardinality
+
+A marmot is standing on its hind legs behind a camera on a tripod in one image.
+* spatial relation
+* pp ambiguity
+* coreference
+
+One of the houses has a single chimney.
+* hard cardinality
+* presupposition
+
+The left image shows one forward-facing sitting husky, and the right image shows a hand reaching to touch the face of a husky.
+* coordination
+* hard cardinality
+
+In the left image the leaves take up more space than the broccoli.
+* comparison
+* presupposition
+
+There are mashed potatoes in a white colored bowl.
+* existential quantifier
+* spatial relation
+
+there is at least one dog in the image pair wearing a leash
+* existential quantifier
+* hard cardinality
+* soft cardinality
+
+In one image, a bride and groom are standing at the side of a white horse-drawn carriage, with a waiting driver nearby.
+* coordination
+* spatial relation
+* hard cardinality
+
+One image shows an orange colored anemone that is spiky, while the other image shows an anemone that is more finger or tentacle-like and has purple in the image.
+* coordination
+* comparison
+
+Buildings are built up on the side of steep cliffs.
+* spatial relation
+
+The bird on the left is facing right and the bird on the right is facing left.
+* coordination
+* presupposition
+
+All images show dough in a round bowl, with the dough not risen above the edge of the bowl.
+* negation
+* spatial relation
+* universal quantifier
+
+One dog is running and two other dogs are sitting in the grass and watching over some sheep.
+* coordination
+* spatial relation
+* hard cardinality
+* presupposition
+
+An image shows exactly two hounds with faces close together, one with its tongue extending downward.
+* coreference
+* spatial relation
+* hard cardinality
+
+An image shows at least one standing human leg next to a dog in an outdoor setting.
+* spatial relation
+* pp ambiguity
+* soft cardinality
+
+In one of the images there is one person in a book store holding  a book.
+* existential quantifier
+* pp ambiguity
+* sbar ambiguity
+* hard cardinality
+
+The drum skin in one image is white while the other is black.
+* presupposition
+
+Two rays are swimming in the water in the image on the right.
+* spatial relation
+* hard cardinality
+* presupposition
+
+There are exactly two marmots.
+* existential quantifier
+* hard cardinality
+
+A small dog looking at the camera is held by a human hand.
+
+There are more than three syringes.
+* existential quantifier
+* soft cardinality
+
+A small child is sitting down next to a dog in the image on the right.
+* spatial relation
+
+The left and right image contains the same number of  babies in animal towels.
+* coordination
+* comparison
+
+One dog has its mouth open and tongue hanging out.
+* coordination
+* coreference
+* hard cardinality
+
+The stingrays in the left and right images face opposite directions, and one image contains a stingray with vivid spots.
+* coordination
+* spatial relation
+* presupposition
+
+Each image includes exactly one target mark superimposed on a warthog in the foreground.
+* spatial relation
+* pp ambiguity
+* universal quantifier
+* hard cardinality
+
+a sofa has a row of books under in on a tiled floor
+* spatial relation
+* coreference
+
+There is exactly one lid.
+* existential quantifier
+* hard cardinality
+
+Three bikini models pose standing with rears to the camera, in front of water.
+* spatial relation
+* hard cardinality
+
+The pizza in the image on the left sits uncut on a pan.
+* spatial relation
+* presupposition
+
+There is exactly one doberman with its ears cut.
+* existential quantifier
+* coreference
+* hard cardinality
+
+There is at least one blonde girl.
+* existential quantifier
+* soft cardinality
+
+The left and right image contains the same number of clear glass soap dispensers.
+* coordination
+* comparison
+
+The surface of the water is visible in exactly one image.
+* hard cardinality
+* presupposition
+
+The left and right image contains the same number of stingrays touching the sand.
+* coordination
+* comparison
+* spatial relation
+
+A wine glass is behind a wine bottle.
+* spatial relation
+
+There is at most 1 adult dog facing left.
+* existential quantifier
+* soft cardinality
+
+In at least one image there is a single bus facing right forward.
+* existential quantifier
+* soft cardinality
+* hard cardinality
+
+Red-orange signs mark display tables piled with books and set on the wood floor near tall rows of bookshelves in one image.
+* coordination
+* cc ambiguity
+* spatial relation
+* pp ambiguity
+* presupposition
+
+At least one dog can be seen wearing a collar and leash.
+* coordination
+* soft cardinality
+
+At least one dog is laying on his stomach.
+* coreference
+* soft cardinality
+
+One image shows one reclining hound, and a striped bird is standing face-to-face with it.
+* coordination
+* spatial relation
+* coreference
+* hard cardinality
+
+There are two guinea pigs beside each-other in one of the images.
+* existential quantifier
+* spatial relation
+* hard cardinality
+
+A pelican has a fish in its mouth.
+* coreference
+* presupposition
+* spatial relation
+
+There is a total of two dark green bottles.
+* existential quantifier
+* hard cardinality
+
+One beetle is displayed vertically and in a top-view, while the other beetle is displayed horizontally.
+* coordination
+* presupposition
+* hard cardinality
+
+Every image shows exactly one dog running outside.
+* universal quantifier
+* hard cardinality
+
+One of the primates in one of the images is raising a hand.
+* hard cardinality
+* presupposition
+
+The train on the right has a half blue front with a V-shape and rails extending from it, and the train on the left has different coloring.
+* coordination
+* cc ambiguity
+* sbar ambiguity
+* spatial relation
+* comparison
+* presupposition
+
+a pizza cutter is laying next to the pizza
+* spatial relation
+* presupposition
+
+In one image, a yurt sitting on post supports has an outdoor seating area on a deck with railing that encircles the yurt.
+* spatial relation
+* pp ambiguity
+* sbar ambiguity
+
+The left image shows two blue-and-yellow parrot-type birds perched side by side on a branch, and the right image shows a blue-and-yellow bird perched on green clustered seeds.
+* coordination
+* spatial relation
+* hard cardinality
+
+These dogs are all weaing pack equipment  to carry gear.
+* universal quantifier
+* presupposition
+
+The right image contains three locks.
+* hard cardinality
+
+All the trains in the images are facing the same direction.
+* comparison
+* universal quantifier
+* presupposition
+
+One dog is wearing a red collar and the other dog has it's tongue hanging out.
+* coordination
+* presupposition
+* coreference
+* hard cardinality
+
+In one image, there is exactly one tv.
+* existential quantifier
+* hard cardinality
+
+In each image, a woman is present posing with at least one large-breed dog.
+* universal quantifier
+* soft cardinality
+
+The left image contains twice as many dogs as the right image.
+* comparison
+
+One dog is standing with tail extended, and facing rightward with its head and body.
+* coordination
+* coreference
+* hard cardinality
+
+The left image contains one lock with two keys.
+* hard cardinality
+
+At least two colored pencils are near a pencil case.
+* spatial relation
+* soft cardinality
+
+At least one animal is brown.
+* soft cardinality
+
+The combined images include one baboon with lowered face interested in the contents of some container, and a trio of same-size baboons sitting close together.
+* coordination
+* hard cardinality
+* spatial relation
+
+A single cow is walking in the street in the image on the right.
+* spatial relation
+* hard cardinality
+* presupposition
+
+There are three sheep one being brown and a pug in s sheep costume.
+* existential quantifier
+* coordination
+* hard cardinality
+
+An image features a bluish vase with orange flowers in it, standing in front of an open window.
+* spatial relation
+* coreference
+
+There are more animals in the image on the right.
+* existential quantifier
+* comparison
+
+in at least one image there is a white bowl of mash sweet potatoes on top of a small wash towel.
+* existential quantifier
+* spatial relation
+* pp ambiguity
+* soft cardinality
+
+One set of doors is closed and another is open.
+* coordination
+* hard cardinality
+
+One image shows a real man modeling an angled front view of graduation attire, and the other image shows a back view of a black robe with a red sash.
+* coordination
+* spatial relation
+
+In the right image, at least one vertical pole is visible near seals lying en masse on a floating manmade platform.
+* spatial relation
+* pp ambiguity
+* soft cardinality
+
+In one of the images, a person's hand is reaching into the pile of phones.
+* hard cardinality
+* presupposition
+* spatial relation
+
+One laptop computer is facing forward and one is angled to the side, but only one is blue with a white keyboard.
+* coordination
+* hard cardinality
+* spatial relation
+
+The left and right image contains the same number of open sofa beds.
+* coordination
+* comparison
+
+One sneaker has a blue upper front and blue laces, and the other sneaker has a black upper front teamed with green and yellow accents.
+* coordination
+* hard cardinality
+
+There are two chihuahuas in the left image.
+* existential quantifier
+* hard cardinality
+
+there is a dog sitting near  tall brown grass
+* existential quantifier
+* spatial relation
+
+Some of the cups are stacked on top of one another.
+* spatial relation
+* presupposition
+
+Bananas, strawberries and blueberries are in a bowl without a spoon inserted in it.
+* negation
+* coordination
+* spatial relation
+* coreference
+
+The top band of a sneaker is being stretched with fingers
+
+There is no more than one boar in the left image.
+* negation
+* existential quantifier
+* soft cardinality
+
+Penguins' reflections are visible in the water.
+* presupposition
+
+Each image shows two sneakers, and only one image features a matched pair of black sneakers trimmed with purple and aqua.
+* coordination
+* universal quantifier
+* hard cardinality
+
+In the left image a human with a sleeve tattoo is touching a dog.
+* spatial relation
+
+The left and right image are identical building with at least one showing three crosses on top.
+* coordination
+* spatial relation
+* comparison
+* soft cardinality
+* hard cardinality
+
+The right image contains one human interacting with one dog.
+* hard cardinality
+
+In at least one image, we can see a human hand.
+* soft cardinality
+
+One image shows a dingo standing on reddish dirt, its body turned rightward and its face turned to the camera.
+* coordination
+* spatial relation
+* coreference
+
+Each image contains a single dark bottle of wine, and no image contains a wine glass.
+* negation
+* coordination
+* universal quantifier
+* hard cardinality
+
+The interior of a yurt includes a lit stove with a vertical pipe, a burgundy entryway rug, and a fringed patterned purplish rug.
+* coordination
+
+In at least one image, there is a pizza served on a round metal dish.
+* existential quantifier
+* spatial relation
+* soft cardinality
+
+The top shell of a crab is visible in each image, and the crabs on the left and right are displayed in the same position and manner.
+* coordination
+* comparison
+* universal quantifier
+
+In the image to the right, there is a scuba diver with the jellyfish.
+* existential quantifier
+* presupposition
+
+The skunk in the image on the right has its head stuck in a soda can.
+* spatial relation
+* coreference
+* presupposition
+
+There are at least four jelly fish.
+* existential quantifier
+* soft cardinality
+
+A beaker has liquid in it.
+* coreference
+* spatial relation
+
+There are at least three cooked triangle calzones displayed.
+* existential quantifier
+* soft cardinality
+
+At least one spiral-bound edge is next to a row of upright binders in the lefthand image.
+* spatial relation
+* soft cardinality
+
+One image contains exactly three devices, and the other image features one central device with its screen open to nearly 90-degrees.
+* coordination
+* coreference
+* hard cardinality
+
+Only one cheetah is eating a carcass in one of the images.
+* hard cardinality
+
+One of the wagon images is a close up of just the wagon's wheel.
+* hard cardinality
+* presupposition
+
+In one of the images, a bluejay is standing in some leaves while holding an acorn in its beak.
+* pp ambiguity
+* coreference
+* hard cardinality
+* spatial relation
+
+There are people and llamas in the left image.
+* existential quantifier
+* coordination
+
+Each zipper pencil case features blue tones and no other color family, and at least one case features a geometric pattern on its front.
+* negation
+* coordination
+* coreference
+* universal quantifier
+* soft cardinality
+
+One baby pug is eating a slice of watermelon.
+* hard cardinality
+
+The left image contains a barbell on its side to the left of a barbell standing upright on one end.
+* spatial relation
+* pp ambiguity
+* coreference
+* hard cardinality
+
+The right image includes at least one man riding bareback on a horned animal on a dirt track flanked by spectators.
+* spatial relation
+* pp ambiguity
+* soft cardinality
+
+The right image contains a desk near a window.
+* spatial relation
+
+There is a lone panda bear sitting in the forest in the center of both images.
+* existential quantifier
+* universal quantifier
+* presupposition
+* spatial relation
+
+All images show corgi dogs inside a vehicle, and no dogs have a part of their body outside a vehicle.
+* negation
+* spatial relation
+* coordination
+* coreference
+* universal quantifier
+
+The young monkey in the image on the right is being held by an older monkey.
+* spatial relation
+* presupposition
+
+In one image, a mountain dog is standing with its body pointed towards the right.
+* coreference
+* spatial relation
+
+there are geese swimming in a pond
+* existential quantifier
+* spatial relation
+
+One image shows one lady in a long all-black gown standing behind a rightward-facing hound that is standing up.
+* spatial relation
+* pp ambiguity
+* sbar ambiguity
+* hard cardinality
+
+Each image contains exactly one white dog, and the lefthand dog has its tongue extended past its teeth and lip.
+* coordination
+* coreference
+* universal quantifier
+* hard cardinality
+* spatial relation
+
+The left and right image contains the same number of groundhogs with at least one sitting on there butts
+* coordination
+* comparison
+* soft cardinality
+
+There are 10 cups in one image
+* existential quantifier
+* hard cardinality
+
+The left and right image contains the same number of goats.
+* coordination
+* comparison
+
+One of the images is of a single test tube that is empty.
+* hard cardinality
+
+One image features at least one panda chewing on a leafless stalk, and the other image shows a sitting panda with the arm on the right bent toward its mouth.
+* coordination
+* coreference
+* soft cardinality
+* presupposition
+* spatial relation
+
+All baboons shown are juveniles, and the right image features two young baboons posed sitting with faces close together.
+* coordination
+* spatial relation
+* universal quantifier
+* hard cardinality
+
+Each image contains a single horned animal, which has its head turned directly toward the camera.
+* coreference
+* universal quantifier
+* hard cardinality
+
+One dog is holding a stuffed dog.
+* hard cardinality
+* spatial relation
+
+One of the images shows two white balls outside of the packaging.
+* hard cardinality
+* presupposition
+* spatial relation
+
+A woman and bald man are wearing gloves together in at least one of the images.
+* coordination
+* soft cardinality
+
+Each image shows exactly one hound on green grass, and one image shows a brown-eared hound while the other shows a black-eared hound.
+* coordination
+* spatial relation
+* universal quantifier
+* hard cardinality
+
+There are multiple TVs showing different pictures in the left image.
+* existential quantifier
+* comparison
+
+In the left image a person is sitting in a barber's chair.
+* spatial relation
+
+Only one woman is drinking in the left image.
+* hard cardinality
+
+One image depicts a collie-type dog next to multiple white sheep and a standing person.
+* coordination
+* spatial relation
+* pp ambiguity
+* cc ambiguity
+
+One of the images contains only two vultures.
+
+There are at least 5 seelions sunning on the rocks surrounded by water.
+* existential quantifier
+* spatial relation
+* soft cardinality
+* presupposition
+
+Each image includes at least one soda bottle shaped gummy candy, with a brown bottom half and clear top half, and no gummy soda bottles are in wrappers.
+* negation
+* coordination
+* spatial relation
+* universal quantifier
+* soft cardinality
+
+A small white puppy is laying down with its tongue out.
+* coreference
+
+The right image contains only a cylindrical closed pencil case with a blue textured exterior.
+
+One of the images shows eight empty soda bottles in a cardboard carrier.
+* spatial relation
+* hard cardinality
+
+There is a beagle facing the left in one image and a beagle in a red collar in the other image.
+* existential quantifier
+* coordination
+* spatial relation
+
+The left and right image contains the same number of white bowls of mashed potatoes.
+* coordination
+* comparison
+
+There are no more than four blinds.
+* negation
+* existential quantifier
+* hard cardinality
+
+There at most one all white chihuahua in both images.
+* existential quantifier
+* soft cardinality
+
+There are two circle pizza.
+* existential quantifier
+* hard cardinality
+
+There are two babies with balloons at or on their head.
+* existential quantifier
+* coordination
+* spatial relation
+* coreference
+* hard cardinality
+
+All of the dogs are in a car.
+* universal quantifier
+* presupposition
+* spatial relation
+
+An image shows rows of non-standing people in yellow and burgundy robes.
+* coordination
+* spatial relation
+
+There are at least four keys.
+* existential quantifier
+* soft cardinality
+
+The phone's profile is shown.
+* presupposition
+
+All of the animals are dogs and at least one is playing with a toy.
+* coordination
+* universal quantifier
+* soft cardinality
+* presupposition
+
+One long nosed dog is rolling over and scratching its back.
+* coordination
+* coreference
+* hard cardinality
+
+There is a red jeep plowing the snow in one image and a a vehicle with a plow not in the snow in the other image.
+* negation
+* existential quantifier
+* coordination
+* pp ambiguity
+* presupposition
+* spatial relation
+
+All images show only rectangular-shaped fragrance bottles, with one displayed head-on and one at an angle along with its box.
+* coordination
+* coreference
+* universal quantifier
+* hard cardinality
+* spatial relation
+
+the right picture has more then one non-human animal in it
+* soft cardinality
+
+The food in each of the images is sitting in a dish.
+* spatial relation
+* universal quantifier
+* presupposition
+
+The left image shows a hand at the top with fingers aimed downward toward the keys of a saxophone with a curved shape.
+* spatial relation
+
+There are a minimum of three elephants.
+* existential quantifier
+* soft cardinality
+
+A bottle is wrapped in paper.
+* spatial relation
+
+There are two animals in total.
+* existential quantifier
+* hard cardinality
+
+Two white sinks are the same shape, one larger than the other, neither of them installed or with a faucet fixture.
+* coordination
+* negation
+* comparison
+* coreference
+
+In one image, a bearded man in a gray suit is sitting in a barber chair with one hand on a chair arm.
+* spatial relation
+* pp ambiguity
+* hard cardinality
+
+The left and right image contains the same number of stingrays hovering over the sand facing different directions.
+* coordination
+* spatial relation
+* comparison
+* presupposition
+
+The dog in the image on the right is standing up.
+* presupposition
+
+There are exactly two beakers.
+* existential quantifier
+* hard cardinality
+
+There are two, and only two, people.
+* existential quantifier
+* hard cardinality
+
+A putter is next to a single ball in one of the images.
+* spatial relation
+* hard cardinality
+
+One image contains only whole, unpeeled bananas in a bunch, and the other image includes unpeeled bananas in a bunch and at least partially peeled banana.
+* coordination
+* soft cardinality
+* spatial relation
+
+At least one of the dogs is wearing a leash.
+* soft cardinality
+* presupposition
+
+A dung beetle is climbing down and off the right side of a mud ball.
+* coordination
+* spatial relation
+
+There is at least one human inside a yurt in one of the images.
+* existential quantifier
+* soft cardinality
+* spatial relation
+
+An image features one horned animal standing with body in profile and face forward, with the head and horns of another animal showing over its back.
+* coordination
+* cc ambiguity
+* spatial relation
+* pp ambiguity
+* coreference
+* hard cardinality
+
+Three dumb bells are being held by humans.
+* hard cardinality
+
+Each image contains the same number of syringes, and the combined images contain at least four syringes in total.
+* coordination
+* comparison
+* universal quantifier
+* soft cardinality
+
+there is a single fish with a white strip down its back and an opaque tail swimming near an anemone
+* existential quantifier
+* coordination
+* cc ambiguity
+* spatial relation
+* pp ambiguity
+* coreference
+* hard cardinality
+
+An image contains only one gorilla.
+* hard cardinality
+
+There are two different people working out with weight in the gym
+* existential quantifier
+* comparison
+* pp ambiguity
+* hard cardinality
+* presupposition
+
+Both boats are heading to the right.
+* universal quantifier
+
+In one image, a pair of mittens is modeled on human hands, while a pair in a second image, with one mitten face up and one face down, is not.
+* negation
+* coordination
+* spatial relation
+* hard cardinality
+
+The cabinet on the right has drawers on it.
+* spatial relation
+* coreference
+* presupposition
+
+The left image features a closely packed group of llamas with hot pink tassels on their ears, and the right image includes at least one llama wearing a pack on its back and a harness.
+* spatial relation
+* coordination
+* soft cardinality
+* coreference
+* cc ambiguity
+
+The left image features one forward-looking black chow with its blue tongue hanging out.
+* spatial relation
+* coreference
+
+Each image contains one reclining wolf, and exactly one image shows a wolf surrounded by snow.
+* universal quantifier
+* hard cardinality
+* coordination
+* spatial relation
+
+The left and right image contains a total of four goats.
+* coordination
+* hard cardinality
+
+One of the images shows mashed potatoes with brown gravy.
+
+Each image contains just one bird, and the wires of a cage are behind the bird in one image.
+* universal quantifier
+* hard cardinality
+* coordination
+* spatial relation
+
+One of the sinks has an attached chain to hold the drain plug.
+* presupposition
+
+The instrument in the image on the right is long and thin.
+* presupposition
+* coordination
+
+In at least one image there is a sofa chair in front of brown blinds.
+* soft cardinality
+* spatial relation
+* universal quantifier
+
+A diver is swimming with a stingray
+
+In one image, hyenas fight with a big cat.
+
+There is one pair of human hands.
+* hard cardinality
+* universal quantifier
+
+The front of the buses in both pictures are facing the left.
+* presupposition
+* universal quantifier
+* spatial relation
+
+An image shows a row of cot-type beds with tubular frames holding reclining dogs.
+* spatial relation
+* pp ambiguity
+
+The image on the left has a boat that is completely in the water and is sailing.
+* spatial relation
+* coordination
+* presupposition
+
+The left and right image contains at least one full head of broccoli.
+* soft cardinality
+* coordination
+
+There are two dogs who are two different colors standing next to each other.
+* universal quantifier
+* comparison
+* spatial relation
+* coreference
+
+The device on the right is viewed head-on, while the one on the left is angled facing rightward, and both devices have the screen slid up to show the keyboard.
+* spatial relation
+* coordination
+* universal quantifier
+* presupposition
+
+The combined images include a pinkish-lavender scarf and a solid blue scarf.
+* coordination
+
+Each image contains exactly one eagle with outspread wings flying in a clear blue sky.
+* universal quantifier
+* hard cardinality
+* spatial relation
+* pp ambiguity
+
+the pencil pouch in the right image had a logo with a mountain on it
+* presupposition
+* coreference
+* spatial relation
+
+One image contains one individually-wrapped paper towel roll with packaging featuring a blue oval on green, and the other image features packaging that includes a green leaf on it.
+* coordination
+* spatial relation
+* coreference
+
+An image shows a single, standing dog, with its body turned rightward and some kind of """"strap"""" around part of its body.
+* spatial relation
+* coreference
+* coordination
+* cc ambiguity
+
+The left image shows a long wooden cylinder laid diagonally on top of a flattened circle of dough.
+* spatial relation
+
+There are at least two Chevy Corvette convertible cars.
+* soft cardinality
+* universal quantifier
+
+There isn't anything hanging on the walls, no decor.
+* universal quantifier
+* negation
+* presupposition
+* spatial relation
+
+There are two cloth curtains in front of a sliding glass door, and the yellow/gold one is open no more than a foot and a half.
+* existential quantifier
+* hard cardinality
+* spatial relation
+* coordination
+* negation
+* presupposition
+
+The left image has less dogs than the right.
+* comparison
+* hard cardinality
+
+There are exactly two goats on mountains.
+* hard cardinality
+* existential quantifier
+* spatial relation
+
+Both images are of the inside of a room.
+* universal quantifier
+
+The left and right image contains the same number of grey and white huskies.
+* comparison
+* coordination
+
+The dog in the image on the right is sitting in the grass outside.
+* presupposition
+* spatial relation
+
+There is a golf ball on the grass.
+* existential quantifier
+* spatial relation
+* presupposition
+
+Two large soda bottles are the same brand with caps and labels using the same colors, but different design details.
+* hard cardinality
+* comparison
+* coordination
+
+One image shows a closed white pencil case with an illustrated front overlapping an open spiral sketchbook.
+* spatial relation
+* pp ambiguity
+
+Images contain more than one animal
+* soft cardinality
+
+A chihuahua puppy appears to be within someone's hand.
+* spatial relation
+
+A human is touching at least one of the dogs.
+* soft cardinality
+* spatial relation
+* presupposition
+
+There are at least five animals in total.
+* existential quantifier
+* soft cardinality
+
+Treeless hills are behind a group of llamas, with at least one wearing a pack, in the left image.
+* spatial relation
+* coreference
+
+At least one fish is facing left in the right image.
+* soft cardinality
+* spatial relation
+
+The left and right image contains the same number of puppies.
+* coordination
+* comparison
+
+The potatoes in the lefthand image are served in a light-colored oval bowl and are garnished with something green.
+* coordination
+* spatial relation
+* presupposition
+
+The dog in the image on the right is facing toward the right.
+* presupposition
+* spatial relation
+
+No more than two cheetahs are present.
+* negation
+* soft cardinality
+
+A chick with yellowish fluffy fur is standing in the green grass in the image on the left.
+* spatial relation
+* presupposition
+
+In the image on the right there is a phone withe the screen visible, a phone with the back visible, and a phone turned to the side.
+* existential quantifier
+* coordination
+* spatial relation
+
+The left image contains no more than two seals, and the right image shows at least seven seals in various poses on a gray rock slope.
+* negation
+* soft cardinality
+* coordination
+* spatial relation
+
+A spotted sting ray in the ocean.
+* spatial relation
+* presupposition
+
+At least one of the images in the set does not feature four knee pads.
+* soft cardinality
+* negation
+* hard cardinality
+
+A cookie sits in the dessert in the image on the left.
+* spatial relation
+* presupposition
+
+An image shows multiple people in protective sky-blue garments holding pandas on their laps
+* soft cardinality
+* spatial relation
+* coreference
+* pp ambiguity
+
+There are 2 pairs of mittens shown.
+* existential quantifier
+* hard cardinality
+
+A chair is located near the cabinet in the image on the right.
+* spatial relation
+* presupposition
+
+At least one zebra is looking straight at the camera.
+* soft cardinality
+* spatial relation
+
+The person in the image on the right is wearing a white vest.
+* presupposition
+* spatial relation
+
+Each loungewear outfit is modeled by a real person, and no loungewear top has sleeves that reach below the elbow.
+* universal quantifier
+* coordination
+* negation
+* pp ambiguity
+* spatial relation
+
+A baby elephant is standing in the grass next to an adult elephant without tusks.
+* spatial relation
+* negation
+* pp ambiguity
+* presupposition
+
+One of the vases has utensils in it.
+* spatial relation
+* coreference
+* presupposition
+
+In at least one image a there are at least 20 phones, mostly sliver that are not power on with a single arm and hand reaching into the pile from the right side.
+* soft cardinality
+* universal quantifier
+* negation
+* coordination
+* cc ambiguity
+* presupposition
+* pp ambiguity
+
+there are 3 seals in the image pair
+* hard cardinality
+
+The left image shows one open case with rounded corners, and the right image features a design with raised dots and includes a fucshia case with light blue zipper.
+* coordination
+* cc ambiguity
+
+One sliding door is closed.
+* hard cardinality
+
+One dog is jumping in front of another dog in the left image.
+* spatial relation
+
+The left image shows a cream-layered dessert in a footed clear glass which includes sliced peanut butter cups and brownie chunks.
+* spatial relation
+* coordination
+* cc ambiguity
+
+There are at most 3 water buffalos in the image pair.
+* existential quantifier
+* soft cardinality
+
+At least one panda is sitting near a fallen branch on the ground.
+* soft cardinality
+* spatial relation
+* pp ambiguity
+* presupposition
+
+There is at most 1 binder with a floral design.
+* existential quantifier
+* soft cardinality
+
+there is a dog laying on a dog bed cuddling a stuffed toy
+* existential quantifier
+* spatial relation
+
+A dog has retrieved a dead duck.
+
+An animal is standing on the top of a object.
+* spatial relation
+
+Six rolls of paper towels are enclosed in a plastic package with the brand name on it.
+* hard cardinality
+* spatial relation
+* coreference
+
+The left image contains at least three dogs sitting in grass.
+* soft cardinality
+* spatial relation
+
+All dogs are corgis with upright ears, and one image contains at least twice as many real corgis as the other image.
+* universal quantifier
+* coordination
+* soft cardinality
+* comparison
+
+there are four or more animals very close to each other on the grass in the image to the left.
+* soft cardinality
+* spatial relation
+* presupposition
+* coreference
+
+There is one chimney visible.
+* existential quantifier
+* hard cardinality
+
+There are no lemons on top of chicken.
+* existential quantifier
+* negation
+* spatial relation
+
+The napkins in the left image are folded into squares and stacked.
+* presupposition
+* coordination
+* spatial relation
+
+The rail posts in the image on the right are topped with decorative knobs.
+* spatial relation
+
+there is one dog only with no leash in the right pic
+* existential quantifier
+* hard cardinality
+* negation
+
+There are no less than 3 lip glosses in the image pair
+* existential quantifier
+* negation
+* soft cardinality
+
+A riderless horse carriage is sitting on the grass.
+* spatial relation
+* presupposition
+
+The dog in the image on the right has their mouth wide open and tongue lolling out.
+* presupposition
+* coreference
+* coordination
+* spatial relation
+
+Right image shows one opened black case containing a saxophone.
+* hard cardinality
+* spatial relation
+
+One of the photos shows a gray bottle with a red and blue label next to it's blue and red box.
+* coordination
+* coreference
+* spatial relation
+* pp ambiguity
+
+One glass of red wine sits in each of the images.
+* universal quantifier
+* hard cardinality
+
+The left image contains exactly two dogs.
+* hard cardinality
+
+There are more mammals in the image on the right.
+* comparison
+* hard cardinality
+
+At least one image shows a blue-headed bird perched above a tight cluster of hanging red bottle-brush flowers.
+* soft cardinality
+* spatial relation
+
+In both images, the bottles that hold the soap are attached to the pump.
+* universal quantifier
+* presupposition
+* spatial relation
+
+One image contains a product that is not body lotion.
+* negation
+
+The left image features a left-facing wolf pup, and the right image includes one adult wolf facing right.
+* spatial relation
+* coordination
+
+The left image features a three-section white framed unit with mirrored doors.
+* hard cardinality
+* spatial relation
+
+None of the sneakers in the images are on a foot.
+* negation
+* spatial relation
+
+There is a guinea pig that is not swimming.
+* existential quantifier
+* negation
+
+In at least one of the photos the man is wearing a baseball cap.
+* soft cardinality
+* spatial relation
+* presupposition
+
+There are at least two clear dispensers.
+* existential quantifier
+* soft cardinality
+
+In at least one image there is a woman eating off a rectangle plate.
+* soft cardinality
+* existential quantifier
+* spatial relation
+
+There are wooden shelves, but there is nothing in the shelves.
+* existential quantifier
+* negation
+* spatial relation
+
+The left image contains one old fashioned glass soda bottle filled with a dark liquid.
+* hard cardinality
+* spatial relation
+
+Exactly one of the birds is flying in the air.
+* hard cardinality
+* spatial relation
+* presupposition
+
+One net has pale blue trim.
+* presupposition
+
+One image shows a sitting chimpanzee clutching an animal to its chest.
+* coreference
+* spatial relation
+
+Two large trifle desserts are made in footed bowls with alternating chocolate and creamy layers, a chocolate layer at the bottom.
+* hard cardinality
+* spatial relation
+* coordination
+* cc ambiguity
+* pp ambiguity
+
+At least one of the dogs has a small toy in front of him.
+* soft cardinality
+* spatial relation
+* coreference
+
+One drum kit has a cylindrical drum with a black circular face turned toward the camera, and the other drum kit has a white circular face of a drum turned to the camera.
+* spatial relation
+* coordination
+* pp ambiguity
+
+The left and right image contains the same number of  red plows with a separate silver and red trucks plowing forward.
+* coordination
+* comparison
+* spatial relation
+* pp ambiguity
+
+One of the hutches does not contain any glass.
+* presupposition
+* negation
+
+All the syringes have needles attached.
+* universal quantifier
+* spatial relation
+* presupposition
+
+There are three skunks in total.
+* existential quantifier
+* hard cardinality
+
+there is a pizza pie with a slice missing on a two toned wooden cutting board, the slice that was removed is on a white plate with a fork laying next to it
+* existential quantifier
+* spatial relation
+* coreference
+* pp ambiguity
+
+All of the dogs are near humans.
+* universal quantifier
+* spatial relation
+* presupposition
+
+One image includes a fuzzy baby penguin, and the other only contains adult penguins.
+* coordination
+* universal quantifier
+
+The left and right image contains a total two women standing in a bikinis.
+* coordination
+* hard cardinality
+* pp ambiguity
+
+A stylus is near a laptop in one of the images.
+* spatial relation
+
+There is exactly one pair of drumsticks.
+* existential quantifier
+* hard cardinality
+
+There is at least one red train car with 3 yellow chevron stripes on the body of the nose and not on the grate.
+* existential quantifier
+* hard cardinality
+* soft cardinality
+* coordination
+* cc ambiguity
+* negation
+* pp ambiguity
+
+Only blue cars can be seen in the image pair.
+* universal quantifier
+
+There are people walking in both images.
+* existential quantifier
+* universal quantifier
+
+There is a guinea pig receiving attention from a human.
+* existential quantifier
+
+A single person is standing near a wild pig in one of the images.
+* hard cardinality
+* spatial relation
+
+In one image, a black dog with white at its feet and neck is running in a sideways direction, his front and back feet seemingly making contact under his body.
+* coreference
+* coordination
+* spatial relation
+
+a seal is laying on the sandy beach with an open mouth
+* presupposition
+* spatial relation
+
+The left and right image contains the same number of bottled beers.
+* coordination
+* comparison
+* hard cardinality
+
+At least two wolves are standing in snow.
+* soft cardinality
+* spatial relation
+
+There are exactly two fluffy dogs and no reflections.
+* existential quantifier
+* hard cardinality
+* negation
+* coordination
+
+a bobby pin is pinned on a sweater with a collared shirt underneath
+* spatial relation
+* pp ambiguity
+
+Each image contains one panda grasping some kind of stalk, and the left image features an open-mouthed camera-facing panda chewing on a green stalk.
+* universal quantifier
+* spatial relation
+* coordination
+
+The left image features an ordinary car on snow-covered ground, and the right image features a bright yellow commercial snow plow on a road with snow on each side of it.
+* spatial relation
+* coordination
+* coreference
+* pp ambiguity
+
+There is a silver drain plug in the basin in the image on the right.
+* existential quantifier
+* spatial relation
+* presupposition
+
+A person is holding at least one knee pad in the image on the left.
+* soft cardinality
+
+A dog has its mouth open.
+* coreference
+
+Balloons float in a blue sky with dappled clouds on strings that angle rightward, in the right image.
+* spatial relation
+* pp ambiguity
+
+The right image features a large blue body of water containing at least six sailboats, and a shore that slopes upward.
+* soft cardinality
+* spatial relation
+* coordination
+
+One of the dogs has a yellow soccer ball.
+* presupposition
+
+There are two stripe on exactly one of the binders, and none on the other.
+* existential quantifier
+* hard cardinality
+* negation
+* presupposition
+
+The stingray on the right is shown topside-up and with its head aimed sideways, and it has wings that are triangular instead of round.
+* spatial relation
+* presupposition
+* coordination
+
+Exactly two open brown cases holding paper are displayed in the left image.
+* hard cardinality
+* spatial relation
+
+One of the images includes three or fewer balloons.
+* soft cardinality
+
+The left image contains exactly two warthogs.
+* hard cardinality
+
+Right and left images show opposite angled forward views of short yellow buses with no more than five passenger windows per side.
+* coordination
+* comparison
+* negation
+* soft cardinality
+* spatial relation
+
+These images show sea creatures, but none of these creatures are fish.
+* negation
+
+Each image shows a trio of collies, and one image shows collies who are not all facing forward with both eyes clearly visible.
+* universal quantifier
+* hard cardinality
+* coordination
+* spatial relation
+* negation
+* pp ambiguity
+
+One of the photos has a couch on the right side of the room.
+* spatial relation
+* presupposition
+
+Each image shows a white dog standing without use of an aid or prosthetic, and the left image shows a three-legged dog on green grass.
+* universal quantifier
+* negation
+* coordination
+* hard cardinality
+* spatial relation
+
+In at least one image there is a bottle of wine and a glass with red wine in it.
+* soft cardinality
+* existential quantifier
+* coordination
+* spatial relation
+* coreference
+
+There is a total of three people lifting weights.
+* existential quantifier
+* hard cardinality
+
+A baby elephant is walking on grass in at least one of the images.
+* spatial relation
+* soft cardinality
+

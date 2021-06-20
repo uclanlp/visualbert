@@ -1,0 +1,39 @@
+{
+  "dataset": "vqa",
+
+  "data_root": "X_COCO", //Please replace this with the actual corresponding folder
+  "use_visual_genome": true,
+
+  "max_seq_length": 128,
+  "bert_model_name": "bert-base-uncased",
+  "do_lower_case": true,
+
+  "train_batch_size": 64,
+  "eval_batch_size": 64,
+
+  "pretraining": true,
+  "no_next_sentence": true,
+  "false_caption_ratio": 0.5,
+
+  // Optimizer stuff
+  "patience": 3,
+  "learning_rate": 5e-5,
+  "num_train_epochs":  10,
+  "warmup_proportion": 0.1,
+  "grad_norm": 1.0,
+  "gradient_accumulation_steps": 1,
+
+  "restore_bin":  null,  //Specify which model to initialize from
+  "include_res152": false,
+
+  "num_workers": 8,
+  "val_workers": 2,
+
+  "model":
+  {
+    "type": "VisualBERTFixedImageEmbedding",
+    "special_visual_initialize": true,
+    "training_head_type": "pretraining",
+    "visual_embedding_dim": 2048
+  }
+}

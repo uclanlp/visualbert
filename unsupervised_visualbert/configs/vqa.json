@@ -1,0 +1,58 @@
+{
+    "batch_size": 32,
+    "valid_batch_size": 32,
+    "optim": "bert",
+    "lr": 5e-5,
+    "epochs": 8,
+    "tqdm": true,
+    "max_seq_length": 20,
+    "report_every": 200,
+    "warmup_ratio": 0.1,
+    "num_workers": 2,
+    "partial_dataset": 1,
+
+    //Pretraining parameters
+    "task_matched": false,
+    "task_obj_predict": true,
+    "task_mask_lm": true,
+    "task_qa": true,
+    "visual_losses": "obj",
+    //"qa_sets": true,
+    "word_mask_rate": 0.15,
+    "obj_mask_rate": 0.15,
+
+    "train": "train,nominival",
+    "valid": "minival",
+    "custom_coco_data": false,
+    "use_h5_file": true,
+    
+    "llayers": 12,
+    "xlayers": 0,
+    "rlayers": 0,
+    "visualbert_style": true,
+    "from_scratch": false,
+    "load_lxmert_pretrain": null,//"snap/pretrain/indomain_small_original_ratio_kl_divergence_fixed_tag/Step300000",
+    "disable_divide_2": true,
+
+    "add_tags": true,
+    "use_visual_tag_flag": true,
+    "use_tag_symbolic_embedding": true,
+    "use_bert_input_for_tags": true,
+    "non_exclusive_tags": true,
+
+    "load_lxmert_pretrain": "snap/pretrain/CC_Unsupervised",
+
+    "hybrid_embedding": true,
+    "joint_layer_norm": false,
+
+    "attributes_vocab": "data/vocabs/attributes_vocab.txt",
+    "objects_vocab": "data/vocabs/objects_vocab.txt",
+    "relations_vocab": "data/vocabs/relations_vocab.txt",
+
+    "cache_dir": "tmp/",
+    "on_memory": false
+
+    // fine-tuned model: /local/harold/ubert/lxmert/snap/vqa/full_8_from_book_corpus_new_text_2/LAST.pth
+    // command: CUDA_VISIBLE_DEVICES=0 python src/tasks/vqa.py --multiGPU --output ./snap/test --config ./configs/vqa.json
+
+}

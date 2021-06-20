@@ -1,0 +1,60 @@
+//4xV100s needed
+{
+  "dataset": "vcr",
+
+  "rationale": true, // Doing q->a or qa->r
+
+  "vcr_annots_dir":"X_VCR", //Please replace this with the actual corresponding folder
+  "vcr_image_dir":"X_VCR/vcr1images", //Please replace this with the actual corresponding folder
+
+  "use_fixed_feature": false,
+  "image_screening_parameters": null,
+
+  "use_alignment": true,
+  "special_screen": false,
+  "add_all_features": true,
+
+  "fp16": false,
+  "loss_scale": 512, 
+
+  "max_seq_length": 128,
+  "bert_model_name": "bert-base-uncased",
+  "do_lower_case": true,
+  "train_batch_size": 32,
+  "eval_batch_size":  32,
+
+  "pretraining": false,
+  "pretraining_include_qar": false, // Whether we want to include qar for pre-training
+  "pretraining_include_qa_and_qar": false,
+  "complete_shuffle": false,
+
+  ////////Evlaution
+  "do_test":false,
+  "vcr_save_result":false,
+  "skip_training": false,
+  "epoch_to_load": null,
+
+  "patience": 3,
+  "learning_rate": 2e-5,
+  "num_train_epochs":  12,
+  "warmup_proportion": 0.1,
+  "grad_norm": 1.0,
+  "gradient_accumulation_steps": 1,
+
+  "restore_bin": null,  //Specify which model to initialize from
+ 
+  "num_workers": 8,
+  "val_workers": 4,
+
+  "freeze_detector": false,
+
+  "use_bert":  true,
+
+  "model":
+  {
+    "type": "VisualBERTDetector",
+    "special_visual_initialize": true,
+    "training_head_type": "multichoice",
+    "visual_embedding_dim": 512
+  }
+}
