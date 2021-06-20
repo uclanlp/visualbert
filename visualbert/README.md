@@ -211,8 +211,4 @@ cd visualbert/utils/get_image_features
 CUDA_VISIBLE_DEVICES=0 python extract_features_nlvr.py --cfg XXX.yaml --wts XXX.pkl --min_bboxes 150 --max_bboxes 150 --feat_name gpu_0/fc6 --output_dir X_NLVR --image-ext png X_NLVR_IMAGE/SET --no_id --one_giant_file X_NLVR/features_SET_150.th
 ```
 
-## Evaluation
-Coming soon!
 
-# Visualization
-Coming soon!
