@@ -273,7 +273,7 @@ class COCODataset(Dataset):
         except:
             pass
         obj_labels = [self.coco_obj_to_ind[metadata['names'][i]] for i in dets2use.tolist()]
-        boxes = np.row_stack((window, boxes))
+        boxes = np.vstack((window, boxes))
         segms = np.concatenate((np.ones((1, 14, 14), dtype=np.float32), segms), 0)
         obj_labels = [self.coco_obj_to_ind['__background__']] + obj_labels
 
