@@ -311,7 +311,7 @@ class VCR(Dataset):
         boxes[:, 2:] += np.array(padding[:2])[None]
         obj_labels = [self.coco_obj_to_ind[item['objects'][i]] for i in dets2use.tolist()]
         if self.add_image_as_a_box:
-            boxes = np.row_stack((window, boxes))
+            boxes = np.vstack((window, boxes))
             segms = np.concatenate((np.ones((1, 14, 14), dtype=np.float32), segms), 0)
             obj_labels = [self.coco_obj_to_ind['__background__']] + obj_labels
 
